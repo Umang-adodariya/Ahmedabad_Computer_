@@ -53,7 +53,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat1 cat3">
+                        <!-- <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat1 cat3">
                             <div class="course-box2 style2">
                                 <div class="course-img">
                                     <img src="assets/img/course/267x230/react.png" alt="course">
@@ -74,8 +74,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat1 cat4">
+                        </div> -->
+                        <!-- <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat1 cat4">
                             <div class="course-box2 style2">
                                 <div class="course-img">
                                     <img src="assets/img/course/couses-new/267-angular.jpg" alt="course">
@@ -97,7 +97,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat1 cat4">
                             <div class="course-box2 style2">
                                 <div class="course-img">

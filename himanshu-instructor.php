@@ -23,7 +23,7 @@ Team Area
 ==============================-->
     <section class="space">
         <div class="container">
-            <div class="team-details-about-info">
+            <!-- <div class="team-details-about-info">
                 <div class="row gx-40">
                     <div class="col-lg-6 position-relative">
                         <div class="team-details-thumb">
@@ -76,11 +76,11 @@ Team Area
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="space-top">
                 <div class="row">
                     <div class="col-lg-8">
-                        <p>With 2+ years of teaching experience, Himanshu is adept at breaking down complex concepts into easy-to-understand explanations. He is committed to fostering a collaborative learning environment where students can experiment, learn, and grow.
+                        <!-- <p>With 2+ years of teaching experience, Himanshu is adept at breaking down complex concepts into easy-to-understand explanations. He is committed to fostering a collaborative learning environment where students can experiment, learn, and grow. -->
                         </p>
                         <h3 class="title h4 fw-semibold mb-40">Areas of Expertise:</h3>
                         <div class="checklist mb-40">
