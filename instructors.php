@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 col-xl-3">
+                <!-- <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="team-card style3">
                         <div class="team-img-wrap">
                             <div class="team-img">
@@ -56,9 +56,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-sm-6 col-lg-4 col-xl-3">
-                    <div class="team-card style3">
+                    <div class="team-card style3">  
                         <div class="team-img-wrap">
                             <div class="team-img">
                                 <img src="assets/img/instructor/instructorDetail/rajdeep.jpg" alt="Rajdeep Game Development">
@@ -286,7 +286,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 col-xl-3">
+                <!-- <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="team-card style3">
                         <div class="team-img-wrap">
                             <div class="team-img">
@@ -304,7 +304,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>

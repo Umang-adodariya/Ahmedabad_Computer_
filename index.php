@@ -265,7 +265,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-4 filter-item cat1">
+                <!-- <div class="col-md-6 col-xl-4 filter-item cat1">
                     <div class="course-box2">
                         <div class="course-img">
                             <img src="assets/img/home-course/ReactFull.jpg" alt="course">
@@ -281,8 +281,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6 col-xl-4 filter-item cat1">
+                </div> -->
+                <!-- <div class="col-md-6 col-xl-4 filter-item cat1">
                     <div class="course-box2">
                         <div class="course-img">
                             <img src="assets/img/home-course/AngularReact.jpg" alt="course">
@@ -298,7 +298,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-6 col-xl-4 filter-item cat1">
                     <div class="course-box2">
                         <div class="course-img">
@@ -704,7 +704,7 @@
                             </div>
                         </div>
                         <!-- Single Item -->
-                        <div class="col-md-6 col-lg-4">
+                        <!-- <div class="col-md-6 col-lg-4">
                             <div class="team-box">
                                 <div class="team-img">
                                     <img src="assets/img/instructor/home-instructor/03.jpg" alt="Team">
@@ -714,7 +714,7 @@
                                     <span class="team-desig">Full Stack React Development Expert</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Single Item -->
                         <div class="col-md-6 col-lg-4">
                             <div class="team-box">
@@ -1168,15 +1168,15 @@ Blog Area
                             <div class="blog-img th-carousel" data-overlay="black" data-opacity="5"
                                 data-arrows="true" data-slide-show="1" data-fade="true">
                                 <a href="blog-details.php"><img src="assets/img/course/400x450/teachers1.jpg"
-                                        alt=""></a>
+                                        alt="IT Training Institute"></a>
                                 <a href="blog-details.php"><img src="assets/img/course/400x450/teachers2.jpg"
-                                        alt=""></a>
+                                        alt="Computer Training Institute"></a>
                                 <a href="blog-details.php"><img src="assets/img/course/400x450/teachers1.jpg"
-                                        alt=""></a>
+                                        alt="IT Training Institute"></a>
                                 <a href="blog-details.php"><img src="assets/img/course/400x450/teachers2.jpg"
-                                        alt=""></a>
+                                        alt="Computer Training Institute"></a>
                                 <a href="blog-details.php"><img src="assets/img/course/400x450/teachers1.jpg"
-                                        alt=""></a>
+                                        alt="IT Training Institute"></a>
                             </div>
                         </div>
                     </div>

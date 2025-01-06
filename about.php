@@ -352,7 +352,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                     <div class="team-card style2">
                         <div class="team-img-wrap">
                             <svg class="team-shape" xmlns="http://www.w3.org/2000/svg" width="327" height="337" viewBox="0 0 327 337" fill="none">
@@ -367,7 +367,7 @@
                             <span class="team-desig">Full Stack React Development Expert</span>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

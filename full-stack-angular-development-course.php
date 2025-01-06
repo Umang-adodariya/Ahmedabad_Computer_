@@ -549,7 +549,7 @@
                                             <ul class="comment-list">
                                                 <li class="review th-comment-item">
                                                     <div class="th-post-comment">
-                                                        <div class="comment-avater">
+                                                        <div c  lass="comment-avater">
                                                             <img src="assets/img/review/review-prof.png" alt="Comment Author">
                                                         </div>
                                                         <div class="comment-content">

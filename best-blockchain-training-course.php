@@ -829,15 +829,15 @@ Servce Area
                                 <div class="blog-img th-carousel" data-overlay="black" data-opacity="5"
                                     data-arrows="true" data-slide-show="1" data-fade="true">
                                     <a href="blog-details.php"><img src="assets/img/course/400x450/teachers1.jpg"
-                                            alt=""></a>
+                                            alt="IT Training Institute"></a>
                                     <a href="blog-details.php"><img src="assets/img/course/400x450/teachers2.jpg"
-                                            alt=""></a>
+                                            alt="Computer Training Institute"></a>
                                     <a href="blog-details.php"><img src="assets/img/course/400x450/teachers1.jpg"
-                                            alt=""></a>
+                                            alt="IT Training Institute"></a>
                                     <a href="blog-details.php"><img src="assets/img/course/400x450/teachers2.jpg"
-                                            alt=""></a>
+                                            alt="Computer Training Institute"></a>
                                     <a href="blog-details.php"><img src="assets/img/course/400x450/teachers1.jpg"
-                                            alt=""></a>
+                                            alt="IT Training Institute"></a>
                                 </div>
                             </div>
                         </div>
