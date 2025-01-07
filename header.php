@@ -1,4 +1,5 @@
 <?php
+header('Strict-Transport-Security: max-age=31536000; includeSubDomains; preload'); 
 session_start();
 include_once 'meta.php';
 ?>
