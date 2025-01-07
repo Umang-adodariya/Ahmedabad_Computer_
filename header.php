@@ -21,6 +21,96 @@ session_start();
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
 
+    <?php
+    // Check if the requested URL matches the desired URL
+
+    $baseName =  basename($_SERVER['REQUEST_URI']);
+    $currentUrl = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+    if ($baseName === 'ahmedabadcomputereducation.com') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'full-stack-blockchain-development-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'full-stack-react-development-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }    
+    if ($baseName === 'full-stack-angular-development-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'full-stack-python-development-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'full-stack-laravel-development-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'web-designing-training-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'graphic-and-ui-ux-design-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'game-development-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    } 
+    if ($baseName === 'devops-certification-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'react-native-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'flutter-certification-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'blockchain-training-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'metaverse-training-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'digital-marketing-training-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'seo-certification-training-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'business-development-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'business-analyst-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'software-testing-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'cyber-security-training-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'cms-certification-course.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'courses.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'instructors.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'about.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'event.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'gallery.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'blog.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    if ($baseName === 'contact.php') {
+        echo '<link rel="canonical" href="' . $currentUrl . '">';
+    }
+    ?>
     <!--==============================
 	  Google Fonts
 	============================== -->
@@ -276,80 +366,80 @@ Mobile Menu
                                                     <a href="javascript:void(0)">Software Development Courses</a>
                                                     <ul class="sub-menu">
                                                     <li><a href="full-stack-blockchain-development-course.php">Full Stack Blockchain Development Course</a></li>
-                                                        <li><a rel="canonical" href="full-stack-react-development-course.php">Full Stack React Development Course</a></li>
-                                                        <li><a rel="canonical" href="full-stack-angular-development-course.php">Full Stack Angular Development Course</a></li>
-                                                        <li><a rel="canonical" href="full-stack-python-development-course.php">Full Stack Python Development Course</a></li>
-                                                        <li><a rel="canonical" href="full-stack-laravel-development-course.php">Full Stack Laravel Development Course</a></li>
+                                                        <li><a  href="full-stack-react-development-course.php">Full Stack React Development Course</a></li>
+                                                        <li><a  href="full-stack-angular-development-course.php">Full Stack Angular Development Course</a></li>
+                                                        <li><a  href="full-stack-python-development-course.php">Full Stack Python Development Course</a></li>
+                                                        <li><a href="full-stack-laravel-development-course.php">Full Stack Laravel Development Course</a></li>
                                                         <!-- <li><a href="full-stack-python-development-course.php">Python Certification Course</a></li> -->
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Designing Courses</a>
                                                     <ul class="sub-menu">
-                                                        <li><a rel="canonical"  href="graphic-and-ui-ux-design-course.php">Graphic & UI UX Design Course</a></li>
-                                                        <li><a rel="canonical" href="graphic-and-ui-ux-design-course.php">Graphic & UI UX Design Course</a></li>
+                                                        <li><a   href="graphic-and-ui-ux-design-course.php">Graphic & UI UX Design Course</a></li>
+                                                        <li><a  href="graphic-and-ui-ux-design-course.php">Graphic & UI UX Design Course</a></li>
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <a rel="canonical" href="game-development-course.php">Game Development Course</a>
+                                                    <a href="game-development-course.php">Game Development Course</a>
                                                 </li>
                                                 <li >
-                                                    <a rel="canonical" href="devops-certification-course.php">DevOps Certification Course</a>
+                                                    <a  href="devops-certification-course.php">DevOps Certification Course</a>
                                                 </li>
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Mobile Development Course</a>
                                                     <ul class="sub-menu">
-                                                        <li><a rel="canonical" rel="canonical" href="react-native-course.php">React Native Course</a></li>
-                                                        <li><a rel="canonical" rel="canonical" href="flutter-certification-course.php">Flutter Certification Course</a></li>
+                                                        <li><a href="react-native-course.php">React Native Course</a></li>
+                                                        <li><a  href="flutter-certification-course.php">Flutter Certification Course</a></li>
                                                     </ul> 
                                                 </li>
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Future-Oriented Course</a>
                                                     <ul class="sub-menu">
-                                                        <li><a rel="canonical" href="blockchain-training-course.php">Blockchain Course</a></li>
-                                                        <li><a rel="canonical" href="metaverse-training-course.php">Metaverse Course</a></li>
+                                                        <li><a href="blockchain-training-course.php">Blockchain Course</a></li>
+                                                        <li><a  href="metaverse-training-course.php">Metaverse Course</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Digital Marketing Courses</a>
                                                     <ul class="sub-menu">
-                                                        <li><a rel="canonical" href="digital-marketing-training-course.php">Digital Marketing Course</a></li>
-                                                        <li><a rel="canonical" href="seo-certification-training-course.php">SEO Certification Course</a></li>
+                                                        <li><a href="digital-marketing-training-course.php">Digital Marketing Course</a></li>
+                                                        <li><a  href="seo-certification-training-course.php">SEO Certification Course</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Business Growth Courses</a>
                                                     <ul class="sub-menu">
-                                                        <li><a rel="canonical" href="business-development-course.php">Business Development Course</a></li>
-                                                        <li><a rel="canonical" href="business-analyst-course.php">Business Analyst Course</a></li>
+                                                        <li><a  href="business-development-course.php">Business Development Course</a></li>
+                                                        <li><a href="business-analyst-course.php">Business Analyst Course</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Other Courses</a>
                                                     <ul class="sub-menu">
-                                                        <li><a rel="canonical" href="software-testing-course.php">Software Testing Course</a></li>
-                                                        <li><a rel="canonical" href="cyber-security-training-course.php">Cyber Security Course</a></li>
-                                                        <li><a rel="canonical" href="cms-certification-course.php">CMS Certification Course</a></li>
+                                                        <li><a  href="software-testing-course.php">Software Testing Course</a></li>
+                                                        <li><a  href="cyber-security-training-course.php">Cyber Security Course</a></li>
+                                                        <li><a  href="cms-certification-course.php">CMS Certification Course</a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a rel="canonical" href="instructors.php" class="instructor-link">Instructors</a>
+                                            <a  href="instructors.php" class="instructor-link">Instructors</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a rel="canonical" href="javascript:void(0)">Know Us</a>
+                                            <a  href="javascript:void(0)">Know Us</a>
                                             <ul class="sub-menu">
-                                                <li><a rel="canonical" href="about.php">About Us</a></li>
-                                                <li><a rel="canonical" href="event.php">Events</a></li>
-                                                <li><a rel="canonical" href="gallery.php">Life At ACE</a></li>
+                                                <li><a  href="about.php">About Us</a></li>
+                                                <li><a  href="event.php">Events</a></li>
+                                                <li><a  href="gallery.php">Life At ACE</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a rel="canonical" href="blog.php" class="home-link">Blog</a>
+                                            <a  href="blog.php" class="home-link">Blog</a>
                                         </li>
                                         <li>
-                                            <a rel="canonical" href="connect.php">Contact Us</a>
+                                            <a  href="connect.php">Contact Us</a>
                                         </li>
                                     </ul>
     </div>
@@ -361,25 +451,25 @@ Mobile Menu
     <input type="text" id="search_input" class="search-form-control"  placeholder="What are you looking for?">
     <button type="submit"><i class="fal fa-search"></i></button>
     <div id="result-box" class="result-box" style="display: none;">
-        <a rel="canonical" href="blockchain-training-course.php">Full Stack Blockchain Development Course</a>
-        <a rel="canonical" href="full-stack-react-development-course.php">Full Stack React Development Course</a>
-        <a rel="canonical" href="angular-detail.php">Full Stack Angular Development Course</a>
-        <a rel="canonical" href="full-stack-python-development-course.php">Full Stack Python Development Course</a>
-        <a rel="canonical" href="full-stack-laravel-development-course.php">Full Stack Laravel Development Course</a>
-        <a rel="canonical" href="web-designing-training-course.php">Web Designing Course</a>
-        <a rel="canonical" href="graphic-and-ui-ux-design-course.php">Graphic & UI UX Design Course</a>
-        <a rel="canonical" href="game-development-course.php">Game Development Course</a>
-        <a rel="canonical" href="devops-certification-course.php">DevOps Certification Course</a>
-        <a rel="canonical" rel="canonical" href="flutter-certification-course.php">Flutter Certification Course</a>
-        <a rel="canonical" href="react-native-course.php">React Native Course</a>
-        <a rel="canonical" href="metaverse-training-course.php">Metaverse Course</a>
-        <a rel="canonical" href="digital-marketing-training-course.php">Digital Marketing Course</a>
-        <a rel="canonical" href="seo-certification-training-course.php">SEO Certification Course</a>
-        <a rel="canonical" href="software-testing-course.php">Software Testing Course</a>
-        <a rel="canonical" href="cyber-security-detail.php">Cyber Security Course</a>
-        <a rel="canonical" href="cms-certification-course.php">CMS Course</a>
-        <a rel="canonical" href="business-development-course.php">Business Development Course</a>
-        <a rel="canonical" href="business-analyst-course.php">Business Analyst Course</a>
+        <a href="blockchain-training-course.php">Full Stack Blockchain Development Course</a>
+        <a href="full-stack-react-development-course.php">Full Stack React Development Course</a>
+        <a href="angular-detail.php">Full Stack Angular Development Course</a>
+        <a href="full-stack-python-development-course.php">Full Stack Python Development Course</a>
+        <a href="full-stack-laravel-development-course.php">Full Stack Laravel Development Course</a>
+        <a href="web-designing-training-course.php">Web Designing Course</a>
+        <a href="graphic-and-ui-ux-design-course.php">Graphic & UI UX Design Course</a>
+        <a href="game-development-course.php">Game Development Course</a>
+        <a href="devops-certification-course.php">DevOps Certification Course</a>
+        <a href="flutter-certification-course.php">Flutter Certification Course</a>
+        <a href="react-native-course.php">React Native Course</a>
+        <a href="metaverse-training-course.php">Metaverse Course</a>
+        <a href="digital-marketing-training-course.php">Digital Marketing Course</a>
+        <a href="seo-certification-training-course.php">SEO Certification Course</a>
+        <a href="software-testing-course.php">Software Testing Course</a>
+        <a href="cyber-security-detail.php">Cyber Security Course</a>
+        <a href="cms-certification-course.php">CMS Course</a>
+        <a href="business-development-course.php">Business Development Course</a>
+        <a href="business-analyst-course.php">Business Analyst Course</a>
      </div>
 </form>
 </div>
@@ -420,7 +510,7 @@ Sidemenu
                     <h4 class="post-title"><a class="text-inherit" href="blog-details.php">How To Start Learn
                             Online Study From Your Home</a></h4>
                     <div class="recent-post-meta">
-                        <a rel="canonical" href="blog.php"><i class="fal fa-calendar"></i>21/6/2023</a>
+                        <a  href="blog.php"><i class="fal fa-calendar"></i>21/6/2023</a>
                     </div>
                 </div>
             </div>
@@ -433,7 +523,7 @@ Sidemenu
                     <h4 class="post-title"><a class="text-inherit" href="blog-details.php">A Guide for Teachers
                             and Education Staff.</a></h4>
                     <div class="recent-post-meta">
-                        <a rel="canonical" href="blog.php"><i class="fal fa-calendar"></i>22/6/2023</a>
+                        <a  href="blog.php"><i class="fal fa-calendar"></i>22/6/2023</a>
                     </div>
                 </div>
             </div>
@@ -446,7 +536,7 @@ Sidemenu
                     <h4 class="post-title"><a class="text-inherit" href="blog-details.php">Educate Empower
                             Excel Discover the Power.</a></h4>
                     <div class="recent-post-meta">
-                        <a rel="canonical" href="blog.php"><i class="fal fa-calendar"></i>25/6/2023</a>
+                        <a  href="blog.php"><i class="fal fa-calendar"></i>25/6/2023</a>
                     </div>
                 </div>
             </div>
@@ -644,7 +734,7 @@ Header Area
                 <div class="row align-items-center justify-content-between">
                     <div class="col-auto">
                         <div class="header-logo">
-                            <a rel="canonical" href="https://ahmedabadcomputereducation.com/"><img src="assets/img/ahm-logo-new.png"
+                            <a href="https://ahmedabadcomputereducation.com/"><img src="assets/img/ahm-logo-new.png"
                                     alt="Ahmedabad Computer Education" class="logo-img"></a>
                         </div>
                     </div>
@@ -657,7 +747,7 @@ Header Area
                                             <a href="/" class="home-link">Home</a>
                                         </li>
                                         <li class="menu-item-has-children mega-menu pos-unset">
-                                            <a rel="canonical" href="courses.php">Courses</a>
+                                            <a href="courses.php">Courses</a>
                                             <!-- <ul class="sub-menu">
                                                 <li class="menu-item-has-children">
                                                     <div class="megamenu-row">
@@ -806,17 +896,17 @@ Header Area
                                                         </ul>
                                                         <div class="cus-megamenu-list">
                                                             <ul class="full-stack active">
-                                                                <li><a rel="canonical" href="full-stack-blockchain-development-course.php"><img src="assets/img/menu-ic/blockchainIc.png" alt="Blockchain Development"> Full Stack Blockchain Development Course</a></li>
-                                                                <!-- <li><a rel="canonical" href="full-stack-react-development-course.php"><img src="assets/img/menu-ic/physics.png" alt="physics">Full Stack React Development Course</a></li> -->
-                                                                <!-- <li><a rel="canonical" href="full-stack-angular-development-course.php"><img src="assets/img/menu-ic/programing.png" alt="Angular Development">Full Stack Angular Development Course</a></li> -->
-                                                                <li><a rel="canonical" href="full-stack-python-development-course.php"><img src="assets/img/menu-ic/python.png" alt="Python Development">Full Stack Python Development Course</a></li>
-                                                                <li><a rel="canonical" href="full-stack-laravel-development-course.php"><img src="assets/img/menu-ic/php.png" alt="Laravel Development">Full Stack Laravel Development Course</a></li>
-                                                                <li><a rel="canonical" href="software-testing-course.php"><img src="assets/img/menu-ic/testing.png" alt="Software"> Software Testing Course</a></li>
+                                                                <li><a href="full-stack-blockchain-development-course.php"><img src="assets/img/menu-ic/blockchainIc.png" alt="Blockchain Development"> Full Stack Blockchain Development Course</a></li>
+                                                                <!-- <li><a href="full-stack-react-development-course.php"><img src="assets/img/menu-ic/physics.png" alt="physics">Full Stack React Development Course</a></li> -->
+                                                                <!-- <li><a href="full-stack-angular-development-course.php"><img src="assets/img/menu-ic/programing.png" alt="Angular Development">Full Stack Angular Development Course</a></li> -->
+                                                                <li><a href="full-stack-python-development-course.php"><img src="assets/img/menu-ic/python.png" alt="Python Development">Full Stack Python Development Course</a></li>
+                                                                <li><a href="full-stack-laravel-development-course.php"><img src="assets/img/menu-ic/php.png" alt="Laravel Development">Full Stack Laravel Development Course</a></li>
+                                                                <li><a href="software-testing-course.php"><img src="assets/img/menu-ic/testing.png" alt="Software"> Software Testing Course</a></li>
                                                             </ul>
                                                             <ul class="">
-                                                                <li><a rel="canonical" href="web-designing-training-course.php"><img src="assets/img/menu-ic/ui-design.png" alt="Web Designing"> Web Designing Course</a></li>
-                                                                <li><a rel="canonical" href="graphic-and-ui-ux-design-course.php"><img src="assets/img/menu-ic/graphic-designer.png" alt="Graphic & UIUX"> Graphic & UI UX Design Course</a></li>
-                                                                <li><a rel="canonical" href="cms-certification-course.php"><img src="assets/img/menu-ic/cms.png" alt="CMS Certification"> CMS Certification Course</a></li>
+                                                                <li><a href="web-designing-training-course.php"><img src="assets/img/menu-ic/ui-design.png" alt="Web Designing"> Web Designing Course</a></li>
+                                                                <li><a href="graphic-and-ui-ux-design-course.php"><img src="assets/img/menu-ic/graphic-designer.png" alt="Graphic & UIUX"> Graphic & UI UX Design Course</a></li>
+                                                                <li><a href="cms-certification-course.php"><img src="assets/img/menu-ic/cms.png" alt="CMS Certification"> CMS Certification Course</a></li>
                                                             </ul>
                                                             <!-- <ul class="game-dev">
                                                             <li><a href="game-development-course.php"><img src="assets/img/menu-ic/game.png" alt=""> Game Development</a></li>
@@ -825,24 +915,24 @@ Header Area
                                                             <li><a href="devops-certification-course.php"><img src="assets/img/menu-ic/devops.png" alt=""> DevOps Certification Course</a></li>
                                                             </ul> -->
                                                             <ul class="mobile-dev">
-                                                                <li><a rel="canonical" href="react-native-course.php"><img src="assets/img/menu-ic/science.png" alt="React Development"> React Native Course</a></li>
-                                                                <li><a rel="canonical" href="flutter-certification-course.php"><img src="assets/img/menu-ic/flutter.png" alt="Flutter Course"> Flutter Certification Course</a></li>
+                                                                <li><a href="react-native-course.php"><img src="assets/img/menu-ic/science.png" alt="React Development"> React Native Course</a></li>
+                                                                <li><a href="flutter-certification-course.php"><img src="assets/img/menu-ic/flutter.png" alt="Flutter Course"> Flutter Certification Course</a></li>
                                                             </ul>
                                                             
                                                             <ul class="future-oriented">
-                                                                <li><a rel="canonical" href="blockchain-training-course.php"><img src="assets/img/menu-ic/blockchain.png" alt="Blockchain"> Blockchain Course</a></li>
-                                                                <li><a rel="canonical" href="metaverse-training-course.php"><img src="assets/img/menu-ic/choose.png" alt="Metaverse"> Metaverse Course</a></li>
-                                                                <li><a rel="canonical" href="cyber-security-training-course.php"><img src="assets/img/menu-ic/cyber-security.png" alt="Cyber Security"> Cyber Security Course</a></li>
-                                                                <li><a rel="canonical" href="game-development-course.php"><img src="assets/img/menu-ic/game.png" alt="Game Development"> Game Development Course</a></li>
-                                                                <li><a rel="canonical" href="devops-certification-course.php"><img src="assets/img/menu-ic/devops.png" alt="DevOps Certification"> DevOps Certification Course</a></li>
+                                                                <li><a href="blockchain-training-course.php"><img src="assets/img/menu-ic/blockchain.png" alt="Blockchain"> Blockchain Course</a></li>
+                                                                <li><a href="metaverse-training-course.php"><img src="assets/img/menu-ic/choose.png" alt="Metaverse"> Metaverse Course</a></li>
+                                                                <li><a href="cyber-security-training-course.php"><img src="assets/img/menu-ic/cyber-security.png" alt="Cyber Security"> Cyber Security Course</a></li>
+                                                                <li><a href="game-development-course.php"><img src="assets/img/menu-ic/game.png" alt="Game Development"> Game Development Course</a></li>
+                                                                <li><a href="devops-certification-course.php"><img src="assets/img/menu-ic/devops.png" alt="DevOps Certification"> DevOps Certification Course</a></li>
                                                             </ul>
                                                             <ul class="digital-course">
-                                                                <li><a rel="canonical" href="digital-marketing-training-course.php"><img src="assets/img/menu-ic/bullhorn.png" alt="Digital Marketing"> Digital Marketing Course</a></li>
-                                                                <li><a rel="canonical" href="seo-certification-training-course.php"><img src="assets/img/menu-ic/seo.png" alt="SEO Certification">SEO Certification Course</a></li>
+                                                                <li><a href="digital-marketing-training-course.php"><img src="assets/img/menu-ic/bullhorn.png" alt="Digital Marketing"> Digital Marketing Course</a></li>
+                                                                <li><a href="seo-certification-training-course.php"><img src="assets/img/menu-ic/seo.png" alt="SEO Certification">SEO Certification Course</a></li>
                                                             </ul>
                                                             <ul class="digital-course">
-                                                                <li><a rel="canonical" href="business-development-course.php"><img src="assets/img/menu-ic/investment.png" alt="Business Development"> Business Development Course</a></li>
-                                                                <li><a rel="canonical" href="business-analyst-course.php"><img src="assets/img/menu-ic/data-analysis.png" alt="Business Analyst"> Business Analyst Course</a></li>
+                                                                <li><a href="business-development-course.php"><img src="assets/img/menu-ic/investment.png" alt="Business Development"> Business Development Course</a></li>
+                                                                <li><a href="business-analyst-course.php"><img src="assets/img/menu-ic/data-analysis.png" alt="Business Analyst"> Business Analyst Course</a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -851,21 +941,21 @@ Header Area
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a rel="canonical" href="instructors.php" class="home-link">Instructors</a>
+                                            <a href="instructors.php" class="home-link">Instructors</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a rel="canonical"  href="javascript:void(0)">Know Us</a>
+                                            <a  href="javascript:void(0)">Know Us</a>
                                             <ul class="sub-menu">
-                                                <li><a rel="canonical" href="about.php">About Us</a></li>
-                                                <li><a rel="canonical" href="event.php">Events</a></li>
-                                                <li><a rel="canonical" href="gallery.php">Life At ACE</a></li>
+                                                <li><a href="about.php">About Us</a></li>
+                                                <li><a href="event.php">Events</a></li>
+                                                <li><a href="gallery.php">Life At ACE</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a rel="canonical" href="blog.php" class="home-link">Blog</a>
+                                            <a href="blog.php" class="home-link">Blog</a>
                                         </li>
                                         <li>
-                                            <a rel="canonical" href="connect.php">Contact Us</a>
+                                            <a href="connect.php">Contact Us</a>
                                         </li>
                                     </ul>
                                 </nav>
