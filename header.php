@@ -399,7 +399,7 @@ Mobile Menu
                                                         <li><a href="blockchain-training-course.php">Blockchain Course</a></li>
                                                         <li><a  href="metaverse-training-course.php">Metaverse Course</a></li>
                                                     </ul>
-                                                </li>
+                                                </li> 
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Digital Marketing Courses</a>
                                                     <ul class="sub-menu">
