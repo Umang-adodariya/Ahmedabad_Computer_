@@ -439,7 +439,7 @@
                                             </div>
                                             <div class="media-body">
                                                 <h3 class="author-name"><a class="text-inherit"
-                                                        href="react-native-Instructor.php">Yash Nandha</a></h3>
+                                                        href="react-native-instructor.php">Yash Nandha</a></h3>
                                                 <p class="author-text">Yash Nandha is a passionate React Native developer with a knack for innovation. With a strong foundation in JavaScript and TypeScript, Yash specializes in crafting exceptional mobile applications for both iOS and Android platforms.
                                                 </p>
                                                 <div class="author-meta">

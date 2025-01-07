@@ -528,7 +528,7 @@ session_start();
                                                 <img src="assets/img/loaderIc.png" alt="Author Image" class="default-ic">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="ankit-patel-Instructor.php">Ankit Patel</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="blockchain-instructor.php">Ankit Patel</a></h3>
                                                 <p class="author-text">Ankit Patel is a skilled blockchain and full-stack developer with a passion for building innovative solutions. With over 3 years of experience, Ankit has a proven track record of delivering cutting-edge projects, from smart contracts to decentralized applications.</p>
                                                 <div class="author-meta">
                                                     <a><i class="fal fa-file-video"></i>1 Course</a>

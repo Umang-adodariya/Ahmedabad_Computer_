@@ -365,7 +365,7 @@
                                                 <img src="assets/img/instructor/aman.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="aman-patel-instructor.php">Aman Patel</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="business-development-instructor.php">Aman Patel</a></h3>
                                                 <p class="author-text">Aman Patel is a skilled Business Development Executive with a passion for driving growth and building strong client relationships. With a focus on strategic partnerships, market analysis, and sales execution, Aman is dedicated to helping businesses achieve their goals.</p>
                                                 <div class="author-meta">
                                                     <a href="course.html"><i class="fal fa-file-video"></i>1 Course</a>

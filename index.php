@@ -674,7 +674,7 @@
                                     <img src="assets/img/instructor/home-instructor/10.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="digital-marketing-Instructor.php">Hinal Joshi</a></h3>
+                                    <h3 class="team-title"><a href="digital-marketing-instructor.php">Hinal Joshi</a></h3>
                                     <span class="team-desig">Digital Marketing Expert</span>
                                 </div>
                             </div>
@@ -686,7 +686,7 @@
                                     <img src="assets/img/instructor/home-instructor/01.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="flutter-Instructor.php">Karan Parmar</a></h3>
+                                    <h3 class="team-title"><a href="flutter-instructor.php">Karan Parmar</a></h3>
                                     <span class="team-desig">Flutter Development Expert</span>
                                 </div>
                             </div>
@@ -698,7 +698,7 @@
                                     <img src="assets/img/instructor/home-instructor/02.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="cms-Instructor.php">Sweta Rao</a></h3>
+                                    <h3 class="team-title"><a href="cms-and-web-development-instructor.php">Sweta Rao</a></h3>
                                     <span class="team-desig">CMS Expert</span>
                                 </div>
                             </div>
@@ -722,7 +722,7 @@
                                     <img src="assets/img/instructor/home-instructor/05.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="cyber-security-Instructor.php">Dixit Prajapati</a></h3>
+                                    <h3 class="team-title"><a href="cyber-security-instructor.php">Dixit Prajapati</a></h3>
                                     <span class="team-desig">Cyber Security Expert</span>
                                 </div>
                             </div>
@@ -734,7 +734,7 @@
                                     <img src="assets/img/instructor/home-instructor/06.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="cyber-security-Instructor.php">Priya Jaiswal</a></h3>
+                                    <h3 class="team-title"><a href="cyber-security-instructor.php">Priya Jaiswal</a></h3>
                                     <span class="team-desig">Business Analyst</span>
                                 </div>
                             </div>
@@ -746,7 +746,7 @@
                                     <img src="assets/img/instructor/home-instructor/07.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="cyber-security-Instructor.php">Ram Gondaliya</a></h3>
+                                    <h3 class="team-title"><a href="cyber-security-instructor.php">Ram Gondaliya</a></h3>
                                     <span class="team-desig">Graphic & UI UX Design Expert</span>
                                 </div>
                             </div>
@@ -758,7 +758,7 @@
                                     <img src="assets/img/instructor/home-instructor/08.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="react-native-Instructor.php">Yash Nandha</a></h3>
+                                    <h3 class="team-title"><a href="react-native-instructor.php">Yash Nandha</a></h3>
                                     <span class="team-desig">React Native Expert</span>
                                 </div>
                             </div>
@@ -770,7 +770,7 @@
                                     <img src="assets/img/instructor/home-instructor/09.jpg" alt="Team">
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="team-title"><a href="qa-Instructor.php">Jimmy Chotaliya</a></h3>
+                                    <h3 class="team-title"><a href="quality-assurance-instructor.php">Jimmy Chotaliya</a></h3>
                                     <span class="team-desig">Software Testing expert</span>
                                 </div>
                             </div>

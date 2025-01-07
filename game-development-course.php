@@ -358,7 +358,7 @@ Event Area
                                                 <img src="assets/img/instructor/rajdeep.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="game-Instructor.php">Rajdeep Rathod</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="unity-game-instructor.php">Rajdeep Rathod</a></h3>
                                                 <p class="author-text">Rajdeep Rathod is a seasoned Unity game developer with a passion for creating immersive and engaging gaming experiences. With a strong foundation in 2D and 3D game development, Rajdeep is skilled in crafting captivating gameplay mechanics, AI, and stunning visuals.</p>
                                                 <div class="author-meta">
                                                     <a href="javascript:void(0)"><i class="fal fa-file-video"></i>1 Course</a>

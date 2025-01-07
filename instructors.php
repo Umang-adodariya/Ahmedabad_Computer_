@@ -28,7 +28,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="ui-ux-Instructor.php">Ram Gondaliya</a></h3>
+                                <h3 class="team-title"><a href="uiux-and-graphic-design-instructor.php">Ram Gondaliya</a></h3>
                                 <span class="team-desig">Graphic & UI UX Design Expert</span>
                             </div>
                             <div class="team-info">
@@ -66,7 +66,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="game-Instructor.php">Rajdeep Rathod</a></h3>
+                                <h3 class="team-title"><a href="unity-game-instructor.php">Rajdeep Rathod</a></h3>
                                 <span class="team-desig">Game Development Expert</span>
                             </div>
                             <div class="team-info">
@@ -85,7 +85,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="devOps-Instructor.php">Naresh Chavda</a></h3>
+                                <h3 class="team-title"><a href="devops-instructor.php">Naresh Chavda</a></h3>
                                 <span class="team-desig">DevOps Expert</span>
                             </div>
                             <div class="team-info">
@@ -104,7 +104,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="flutter-Instructor.php">Karan Parmar</a></h3>
+                                <h3 class="team-title"><a href="flutter-instructor.php">Karan Parmar</a></h3>
                                 <span class="team-desig">Flutter Development Expert</span>
                             </div>
                             <div class="team-info">
@@ -123,7 +123,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="react-native-Instructor.php">Yash Nandha</a></h3>
+                                <h3 class="team-title"><a href="react-native-instructor.php">Yash Nandha</a></h3>
                                 <span class="team-desig">React Native Expert</span>
                             </div>
                             <div class="team-info">
@@ -142,7 +142,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="metaverse-Instructor.php">Tejas Acharya</a></h3>
+                                <h3 class="team-title"><a href="metaverse-and-3d-design-instructor.php">Tejas Acharya</a></h3>
                                 <span class="team-desig">Metaverse Expert</span>
                             </div>
                             <div class="team-info">
@@ -161,7 +161,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="digital-marketing-Instructor.php">Hinal Joshi</a></h3>
+                                <h3 class="team-title"><a href="digital-marketing-instructor.php">Hinal Joshi</a></h3>
                                 <span class="team-desig">Digital Marketing Expert</span>
                             </div>
                             <div class="team-info">
@@ -200,7 +200,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="business-analyst-Instructor.php">Priya Jaiswal</a></h3>
+                                <h3 class="team-title"><a href="business-analyst-instructor.php">Priya Jaiswal</a></h3>
                                 <span class="team-desig">Business Analyst</span>
                             </div>
                             <div class="team-info">
@@ -219,7 +219,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="qa-Instructor.php">Jimmy Chotaliya</a></h3>
+                                <h3 class="team-title"><a href="quality-assurance-instructor.php">Jimmy Chotaliya</a></h3>
                                 <span class="team-desig">Software Testing expert</span>
                             </div>
                             <div class="team-info">
@@ -238,7 +238,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="cyber-security-Instructor.php">Dixit Prajapati</a></h3>
+                                <h3 class="team-title"><a href="cyber-security-instructor.php">Dixit Prajapati</a></h3>
                                 <span class="team-desig">Cyber Security Expert</span>
                             </div>
                             <div class="team-info">
@@ -257,7 +257,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="cms-Instructor.php">Sweta Rao</a></h3>
+                                <h3 class="team-title"><a href="cms-and-web-development-instructor.php">Sweta Rao</a></h3>
                                 <span class="team-desig">CMS Expert</span>
                             </div>
                             <div class="team-info">
@@ -276,7 +276,7 @@
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="aman-patel-instructor.php">Aman Patel</a></h3>
+                                <h3 class="team-title"><a href="business-development-instructor.php">Aman Patel</a></h3>
                                 <span class="team-desig">Business Development Expert</span>
                             </div>
                             <div class="team-info">

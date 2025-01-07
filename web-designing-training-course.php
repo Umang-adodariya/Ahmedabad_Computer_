@@ -392,7 +392,7 @@
                                                 <img src="assets/img/instructor/saloni-suthar.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="saloni-suthar-instructor.php">Saloni Suthar</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="web-design-instructor.php">Saloni Suthar</a></h3>
                                                 <p class="author-text">Saloni Suthar is a passionate web design instructor with a proven track record of empowering students to create stunning and functional websites. With years of hands-on experience and a deep understanding of web technologies, Saloni is dedicated to providing top-notch training and support.</p>
                                                 <div class="author-meta">
                                                     <a><i class="fal fa-file-video"></i>1 Course</a>

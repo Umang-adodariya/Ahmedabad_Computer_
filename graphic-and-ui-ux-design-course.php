@@ -320,7 +320,7 @@ Event Area
                                                 <img src="assets/img/instructor/ram.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="ui-ux-Instructor.php">Ram Gondaliya</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="uiux-and-graphic-design-instructor.php">Ram Gondaliya</a></h3>
                                                 <p class="author-text">With 6 years of experience in crafting stunning and user-centric designs, Ram Gondaliya is a master of his craft.</p>
                                                 <div class="author-meta">
                                                     <a href="javascript:void(0)"><i class="fal fa-file-video"></i>2 Courses</a>

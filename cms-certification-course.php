@@ -302,7 +302,7 @@
                                                 <img src="assets/img/instructor/sweta-rao.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="cms-Instructor.php">Sweta Rao</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="cms-and-web-development-instructor.php">Sweta Rao</a></h3>
                                                 <p class="author-text">Sweta Rao, experienced IT instructor at ACE IT Training Institute, is passionate about empowering students with the skills to navigate the ever-evolving tech landscape. With a deep understanding of CMS and web development, Sweta makes complex topics accessible and engaging for learners of all levels.</p>
                                                 <div class="author-meta">
                                                     <a ><i class="fal fa-file-video"></i>1 Course</a>

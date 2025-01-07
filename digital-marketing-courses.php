@@ -47,7 +47,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/hinal.jpg" alt="author">
-                                            <a href="digital-marketing-Instructor.php" class="author-name">Hinal Joshi</a>
+                                            <a href="digital-marketing-instructor.php" class="author-name">Hinal Joshi</a>
                                         </div>
                                         
                                     </div>
@@ -103,7 +103,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/hinal.jpg" alt="author">
-                                            <a href="digital-marketing-Instructor.php" class="author-name">Hinal Joshi</a>
+                                            <a href="digital-marketing-instructor.php" class="author-name">Hinal Joshi</a>
                                         </div>
                                         <a href="digital-marketing-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>

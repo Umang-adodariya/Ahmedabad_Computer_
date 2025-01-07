@@ -245,7 +245,7 @@ Event Area
                                                 <img src="assets/img/instructor/nikita-karanpuria.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                            <h3 class="author-name"><a class="text-inherit" href="nikita-karanpuria-Instructor.php">Nikita Karanpuria</a></h3>
+                                            <h3 class="author-name"><a class="text-inherit" href="mern-stack-instructor.php">Nikita Karanpuria</a></h3>
                                                 <p class="author-text">Nikita Karanpuria is a seasoned full-stack developer and technical project manager with a passion for building innovative and scalable web applications. With a strong foundation in MERN stack technologies and blockchain.</p>
                                                 <div class="author-meta">
                                                     <a href="course.html"><i class="fal fa-file-video"></i>1 Course</a>
@@ -264,7 +264,7 @@ Event Area
                                                 <img src="assets/img/AnkitPatel.jpg" alt="Author Image" class="default-ic" style="max-height:330px;object-fit:cover;">
                                             </div>
                                             <div class="media-body">
-                                            <h3 class="author-name"><a class="text-inherit" href="ankit-patel-Instructor.php">Ankit Patel</a></h3>
+                                            <h3 class="author-name"><a class="text-inherit" href="blockchain-instructor.php">Ankit Patel</a></h3>
                                                 <p class="author-text">Ankit Patel is a skilled blockchain and full-stack developer with a passion for building innovative solutions. With over 3 years of experience, Ankit has a proven track record of delivering cutting-edge projects, from smart contracts to decentralized applications.</p>
                                                 <div class="author-meta">
                                                     <a href="course.html"><i class="fal fa-file-video"></i>2 Courses</a>
