@@ -114,7 +114,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/nilesh-goud.jpg" alt="author">
-                                            <a href="nilesh-goud-instructor.php" class="author-name">Nilesh Goud</a>
+                                            <a href="python-instructor.php" class="author-name">Nilesh Goud</a>
                                         </div>
                                         
                                     </div>
@@ -188,7 +188,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/ram.jpg" alt="author">
-                                            <a href="ui-ux-Instructor.php" class="author-name">Ram Gondaliya</a>
+                                            <a href="uiux-and-graphic-design-instructor.php" class="author-name">Ram Gondaliya</a>
                                         </div>
                                         
                                     </div>
@@ -212,7 +212,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/rajdeep.jpg" alt="author">
-                                            <a href="game-Instructor.php" class="author-name">Rajdeep Rathod</a>
+                                            <a href="unity-game-instructor.php" class="author-name">Rajdeep Rathod</a>
                                         </div>
                                         
                                     </div>
@@ -235,7 +235,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/naresh.jpg" alt="author">
-                                            <a href="devOps-Instructor.php" class="author-name">Naresh Chavda</a>
+                                            <a href="devops-instructor.php" class="author-name">Naresh Chavda</a>
                                         </div>
                                         
                                     </div>
@@ -259,7 +259,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/yash.jpg" alt="author">
-                                            <a href="react-native-Instructor.php" class="author-name">Yash Nandha</a>
+                                            <a href="react-native-instructor.php" class="author-name">Yash Nandha</a>
                                         </div>
                                         
                                     </div>
@@ -282,7 +282,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/karan.jpg" alt="author">
-                                            <a href="flutter-Instructor.php" class="author-name"> Karan Parmar</a>
+                                            <a href="flutter-instructor.php" class="author-name"> Karan Parmar</a>
                                         </div>
                                         
                                     </div>
@@ -306,7 +306,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/80x80_3.png" alt="author">
-                                            <a href="ankit-patel-Instructor.php" class="author-name">Ankit Patel</a>
+                                            <a href="blockchain-instructor.php" class="author-name">Ankit Patel</a>
                                         </div>
                                         
                                     </div>
@@ -328,7 +328,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                            <img src="assets/img/instructor/tejas.jpg" alt="author">
-                                            <a href="metaverse-Instructor.php" class="author-name">Tejas Acharya</a>
+                                            <a href="metaverse-and-3d-design-instructor.php" class="author-name">Tejas Acharya</a>
                                         </div>
                                         
                                     </div>
@@ -351,7 +351,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/hinal.jpg" alt="author">
-                                            <a href="digital-marketing-Instructor.php" class="author-name">Hinal Joshi</a>
+                                            <a href="digital-marketing-instructor.php" class="author-name">Hinal Joshi</a>
                                         </div>
                                         
                                     </div>
@@ -398,7 +398,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/aman.jpg" alt="author">
-                                            <a href="aman-patel-instructor.php" class="author-name">Aman Patel</a>
+                                            <a href="business-development-instructor.php" class="author-name">Aman Patel</a>
                                         </div>
                                         
                                     </div>
@@ -421,7 +421,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/priya.jpg" alt="author">
-                                            <a href="business-analyst-Instructor.php" class="author-name">Priya Jaiswal</a>
+                                            <a href="business-analyst-instructor.php" class="author-name">Priya Jaiswal</a>
                                         </div>
                                         
                                     </div>
@@ -444,7 +444,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/jimmy.jpg" alt="author">
-                                            <a href="qa-Instructor.php" class="author-name">Jimmy Chotaliya</a>
+                                            <a href="quality-assurance-instructor.php" class="author-name">Jimmy Chotaliya</a>
                                         </div>
                                         
                                     </div>
@@ -467,7 +467,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                            <a href="cyber-security-Instructor.php" class="author-name">Dixit Prajapati</a>
+                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
                                         </div>
                                         
                                     </div>
@@ -490,7 +490,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/sweta-rao.jpg" alt="author">
-                                            <a href="cms-Instructor.php" class="author-name">Sweta Rao</a>
+                                            <a href="cms-and-web-development-instructor.php" class="author-name">Sweta Rao</a>
                                         </div>
                                         
                                     </div>
@@ -522,7 +522,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/nikita-karanpuria.jpg" alt="author">
-                                            <a href="nikita-karanpuria-Instructor.php" class="author-name">Nikita Karanpuria</a>
+                                            <a href="mern-stack-instructor.php" class="author-name">Nikita Karanpuria</a>
                                         </div>
                                         <a href="full-stack-blockchain-development-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -594,7 +594,7 @@
                                     <div class="course-author">
                                     <div class="author-info">
                                             <img src="assets/img/instructor/nilesh-goud.jpg" alt="author">
-                                            <a href="nilesh-goud-instructor.php" class="author-name">Nilesh Goud</a>
+                                            <a href="python-instructor.php" class="author-name">Nilesh Goud</a>
                                         </div>
                                         <a href="full-stack-python-development-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -667,7 +667,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/ram.jpg" alt="author">
-                                            <a href="ui-ux-Instructor.php" class="author-name">Ram Gondaliya</a>
+                                            <a href="uiux-and-graphic-design-instructor.php" class="author-name">Ram Gondaliya</a>
                                         </div>
                                         <a href="graphic-and-ui-ux-design-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -690,7 +690,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/rajdeep.jpg" alt="author">
-                                            <a href="game-Instructor.php" class="author-name">Rajdeep Rathod</a>
+                                            <a href="unity-game-instructor.php" class="author-name">Rajdeep Rathod</a>
                                         </div>
                                         <a href="game-development-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -714,7 +714,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/naresh.jpg" alt="author">
-                                            <a href="devOps-Instructor.php" class="author-name">Naresh Chavda</a>
+                                            <a href="devops-instructor.php" class="author-name">Naresh Chavda</a>
                                         </div>
                                         <a href="devops-certification-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -740,7 +740,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/yash.jpg" alt="author">
-                                            <a href="react-native-Instructor.php" class="author-name">Yash Nandha</a>
+                                            <a href="react-native-instructor.php" class="author-name">Yash Nandha</a>
                                         </div>
                                         <a href="react-native-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -763,7 +763,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/karan.jpg" alt="author">
-                                            <a href="flutter-Instructor.php" class="author-name">Karan Parmar</a>
+                                            <a href="flutter-instructor.php" class="author-name">Karan Parmar</a>
                                         </div>
                                         <a href="flutter-certification-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -788,7 +788,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/80x80_3.png" alt="author">
-                                            <a href="ankit-patel-Instructor.php" class="author-name">Ankit Patel</a>
+                                            <a href="blockchain-instructor.php" class="author-name">Ankit Patel</a>
                                         </div>
                                         <a href="blockchain-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -812,7 +812,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/tejas.jpg" alt="author">
-                                            <a href="metaverse-Instructor.php" class="author-name">Tejas Acharya</a>
+                                            <a href="metaverse-and-3d-design-instructor.php" class="author-name">Tejas Acharya</a>
                                         </div>
                                         <a href="metaverse-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -834,7 +834,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/hinal.jpg" alt="author">
-                                            <a href="digital-marketing-Instructor.php" class="author-name">Hinal Joshi</a>
+                                            <a href="digital-marketing-instructor.php" class="author-name">Hinal Joshi</a>
                                         </div>
                                         <a href="digital-marketing-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -905,7 +905,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/priya.jpg" alt="author">
-                                            <a href="business-analyst-Instructor.php" class="author-name">Priya Jaiswal</a>
+                                            <a href="business-analyst-instructor.php" class="author-name">Priya Jaiswal</a>
                                         </div>
                                         <a href="business-analyst-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -930,7 +930,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/jimmy.jpg" alt="author">
-                                            <a href="qa-Instructor.php" class="author-name">Jimmy Chotaliya</a>
+                                            <a href="quality-assurance-instructor.php" class="author-name">Jimmy Chotaliya</a>
                                         </div>
                                         <a href="software-testing-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -952,7 +952,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                            <a href="cyber-security-Instructor.php" class="author-name">Dixit Prajapati</a>
+                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
                                         </div>
                                         <a href="cyber-security-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -975,7 +975,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/sweta-rao.jpg" alt="author">
-                                            <a href="cms-Instructor.php" class="author-name">Sweta Rao</a>
+                                            <a href="cms-and-web-development-instructor.php" class="author-name">Sweta Rao</a>
                                         </div>
                                         <a href="cms-certification-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>

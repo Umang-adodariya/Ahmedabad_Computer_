@@ -469,7 +469,7 @@
                                                 <img src="assets/img/instructor/dixitbhai.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="cyber-security-Instructor.php">Dixit Prajapati</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="cyber-security-instructor.php">Dixit Prajapati</a></h3>
                                                 <p class="author-text">Dixitkumar Prajapati brings a powerful combination of DevOps expertise and cybersecurity training experience to the table. With extensive experience in designing, deploying, and securing scalable infrastructures.</p>
                                                 <div class="author-meta">
                                                     <a ><i class="fal fa-file-video"></i>1 Course</a>

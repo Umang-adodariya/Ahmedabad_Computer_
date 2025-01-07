@@ -349,7 +349,7 @@
                                                 <img src="assets/img/instructor/jimmy.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="qa-Instructor.php">Jimmy Chotaliya</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="quality-assurance-instructor.php">Jimmy Chotaliya</a></h3>
                                                 <p class="author-text">Jimmy Chotaliya is a seasoned QA professional with a strong foundation in manual and automation testing. His expertise in process optimization and team leadership ensures the delivery of high-quality, reliable products.</p>
                                                 <div class="author-meta">
                                                     <a ><i class="fal fa-file-video"></i>1 Course</a>

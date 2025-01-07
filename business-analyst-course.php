@@ -518,7 +518,7 @@
                                                 <img src="assets/img/instructor/priya.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="business-analyst-Instructor.php">Priya Jaiswal</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="business-analyst-instructor.php">Priya Jaiswal</a></h3>
                                                 <p class="author-text">A passionate professional with a robust background in business analysis and software development. With a keen eye for detail and a strong commitment to driving impactful results, I bridge the gap between business needs and technology solutions. </p>
                                                 <div class="author-meta">
                                                     <a><i class="fal fa-file-video"></i>1 Course</a>

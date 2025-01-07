@@ -175,7 +175,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/ram.jpg" alt="author">
-                                <a href="ui-ux-Instructor.php" class="author-name">Ram Gondaliya</a>
+                                <a href="uiux-and-graphic-design-instructor.php" class="author-name">Ram Gondaliya</a>
                             </div>
                             
                         </div>
@@ -201,7 +201,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/rajdeep.jpg" alt="author">
-                                <a href="game-Instructor.php" class="author-name">Rajdeep Rathod</a>
+                                <a href="unity-game-instructor.php" class="author-name">Rajdeep Rathod</a>
                             </div>
                             
                         </div>
@@ -227,7 +227,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/naresh.jpg" alt="author">
-                                <a href="devOps-Instructor.php" class="author-name">Naresh Chavda</a>
+                                <a href="devops-instructor.php" class="author-name">Naresh Chavda</a>
                             </div>
                             
                         </div>
@@ -253,7 +253,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/yash.jpg" alt="author">
-                                <a href="react-native-Instructor.php" class="author-name">Yash Nandha</a>
+                                <a href="react-native-instructor.php" class="author-name">Yash Nandha</a>
                             </div>
                             
                         </div>
@@ -279,7 +279,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/karan.jpg" alt="author">
-                                <a href="flutter-Instructor.php" class="author-name">Karan Parmar</a>
+                                <a href="flutter-instructor.php" class="author-name">Karan Parmar</a>
                             </div>
                             
                         </div>
@@ -331,7 +331,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/tejas.jpg" alt="author">
-                                <a href="metaverse-Instructor.php" class="author-name">Tejas Acharya</a>
+                                <a href="metaverse-and-3d-design-instructor.php" class="author-name">Tejas Acharya</a>
                             </div>
                             
                         </div>
@@ -357,7 +357,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/tarak-shah.png" alt="author">
-                                <a href="digital-marketing-Instructor.php" class="author-name">Tarak Shah</a>
+                                <a href="digital-marketing-instructor.php" class="author-name">Tarak Shah</a>
                             </div>
                             
                         </div>
@@ -436,7 +436,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/priya.jpg" alt="author">
-                                <a href="business-analyst-Instructor.php" class="author-name">Priya Jaiswal</a>
+                                <a href="business-analyst-instructor.php" class="author-name">Priya Jaiswal</a>
                             </div>
                             
                         </div>
@@ -462,7 +462,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/jimmy.jpg" alt="author">
-                                <a href="qa-Instructor.php" class="author-name">Jimmy Chotaliya</a>
+                                <a href="quality-assurance-instructor.php" class="author-name">Jimmy Chotaliya</a>
                             </div>
                             
                         </div>
@@ -488,7 +488,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                <a href="cyber-security-Instructor.php" class="author-name">Dixit Prajapati</a>
+                                <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
                             </div>
                             
                         </div>
@@ -514,7 +514,7 @@
                         <div class="course-author">
                             <div class="author-info">
                                 <img src="assets/img/instructor/sweta-rao.jpg" alt="author">
-                                <a href="cms-Instructor.php" class="author-name">Sweta Rao</a>
+                                <a href="cms-and-web-development-instructor.php" class="author-name">Sweta Rao</a>
                             </div>
                             
                         </div>

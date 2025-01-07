@@ -41,7 +41,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/nikita-karanpuria.jpg" alt="author">
-                                            <a href="nikita-karanpuria-Instructor.php" class="author-name">Nikita Karanpuria</a>
+                                            <a href="mern-stack-instructor.php" class="author-name">Nikita Karanpuria</a>
                                         </div>
                                     </div>
                                     <h3 class="course-title"><a href="full-stack-blockchain-development-course.php">Full Stack Blockchain Development Course</a></h3>
@@ -108,7 +108,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/nilesh-goud.jpg" alt="author">
-                                            <a href="nilesh-goud-instructor.php" class="author-name">Nilesh Goud</a>
+                                            <a href="python-instructor.php" class="author-name">Nilesh Goud</a>
                                         </div>
                                     </div>
                                     <h3 class="course-title"><a href="full-stack-python-development-course.php">Full Stack Python Development Course
@@ -131,7 +131,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/bhargav-limbasiya.jpg" alt="author">
-                                            <a href="bhargav-limbasiya-instructor.php" class="author-name">Bhargav Limbasiya</a>
+                                            <a href="laravel-instructor.php" class="author-name">Bhargav Limbasiya</a>
                                         </div>
                                     </div>
                                     <h3 class="course-title"><a href="full-stack-laravel-development-course.php">Full Stack Laravel Development Course
@@ -154,7 +154,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/jimmy.jpg" alt="author">
-                                            <a href="bhargav-limbasiya-instructor.php" class="author-name">Jimmy Chotaliya</a>
+                                            <a href="laravel-instructor.php" class="author-name">Jimmy Chotaliya</a>
                                         </div>
                                     </div>
                                     <h3 class="course-title"><a href="software-testing-course.php">Software Testing Course
@@ -188,7 +188,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/nikita-karanpuria.jpg" alt="author">
-                                            <a href="nikita-karanpuria-instructor.php" class="author-name">Nikita Karanpuria</a>
+                                            <a href="mern-stack-instructor.php" class="author-name">Nikita Karanpuria</a>
                                         </div>
                                         <a href="full-stack-blockchain-development-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -278,7 +278,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/bhargav-limbasiya.jpg" alt="author">
-                                            <a href="bhargav-limbasiya-instructor.php" class="author-name">Bhargav Limbasiya</a>
+                                            <a href="laravel-instructor.php" class="author-name">Bhargav Limbasiya</a>
                                         </div>
                                         <a href="full-stack-laravel-development-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>

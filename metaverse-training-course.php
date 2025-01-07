@@ -249,7 +249,7 @@
                                                 <img src="assets/img/instructor/tejas.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="metaverse-Instructor.php">Tejas Acharya</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="metaverse-and-3d-design-instructor.php">Tejas Acharya</a></h3>
                                                 <p class="author-text">Tejas Acharya, a seasoned metaverse expert, is passionate about guiding individuals through the exciting realm of virtual reality, augmented reality, and 3D design. With a deep understanding of these technologies, Tejas has honed his skills in creating immersive digital experiences.</p>
                                                 <div class="author-meta">
                                                     <a ><i class="fal fa-file-video"></i>1 Course</a>

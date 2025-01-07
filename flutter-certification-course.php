@@ -306,7 +306,7 @@
                                                 <img src="assets/img/instructor/karan.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="flutter-Instructor.php">Karan Parmar</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="flutter-instructor.php">Karan Parmar</a></h3>
                                                 <p class="author-text">Karan Parmar is a seasoned Flutter developer and experienced IT instructor at ACE. With a passion for teaching and a deep understanding of mobile app development, Karan is committed to empowering students with the skills to succeed in the fast-paced tech industry.</p>
                                                 <div class="author-meta">
                                                     <a><i class="fal fa-file-video"></i>1 Course</a>

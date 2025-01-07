@@ -345,7 +345,7 @@
                                                 <img src="assets/img/instructor/naresh.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="devOps-Instructor.php">Naresh Chavda</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="devops-instructor.php">Naresh Chavda</a></h3>
                                                 <p class="author-text">Naresh Chavda is a seasoned Senior DevOps Engineer with a proven track record of optimizing development pipelines, enhancing system performance, and driving innovation in cloud infrastructure.</p>
                                                 <div class="author-meta">
                                                     <a ><i class="fal fa-file-video"></i>1 Course</a>

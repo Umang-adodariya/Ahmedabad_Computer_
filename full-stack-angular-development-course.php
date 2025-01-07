@@ -508,7 +508,7 @@
                                                 <img src="assets/img/loaderIc.png" alt="Author Image" class="default-ic">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="durgesh-arora-instructor.php">Durgesh Arora</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="mean-stack-instructor.php">Durgesh Arora</a></h3>
                                                 <p class="author-text">Durgesh Arora is a skilled full-stack developer specializing in Angular, Node.js, TypeScript, and JavaScript. With a passion for creating responsive, high-performance web applications, Durgesh brings a wealth of experience to the table.</p>
                                                 <div class="author-meta">
                                                     <a href="course.html"><i class="fal fa-file-video"></i>1 Course</a>

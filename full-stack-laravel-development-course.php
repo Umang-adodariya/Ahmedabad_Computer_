@@ -355,7 +355,7 @@ Event Area
                                                 <img src="assets/img/instructor/bhargav-limbasiya.jpg" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="bhargav-limbasiya-instructor.php">Bhargav Limbasiya</a></h3>
+                                                <h3 class="author-name"><a class="text-inherit" href="laravel-instructor.php">Bhargav Limbasiya</a></h3>
                                                 <p class="author-text">Bhargav Limbasiya is a seasoned PHP/Laravel expert with a passion for crafting robust and scalable web applications. With years of experience in the industry, Bhargav has honed his skills in various aspects of web development, including backend development, API integration, and database management.</p>
                                                 <div class="author-meta">
                                                     <a href="javascript:void(0)"><i class="fal fa-file-video"></i>1 Course</a>

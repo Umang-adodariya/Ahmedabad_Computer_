@@ -45,7 +45,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/yash.jpg" alt="author">
-                                            <a href="react-native-Instructor.php" class="author-name">Yash Nandha</a>
+                                            <a href="react-native-instructor.php" class="author-name">Yash Nandha</a>
                                         </div>
                                         
                                     </div>
@@ -68,7 +68,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/karan.jpg" alt="author">
-                                            <a href="flutter-Instructor.php" class="author-name"> Karan Parmar</a>
+                                            <a href="flutter-instructor.php" class="author-name"> Karan Parmar</a>
                                         </div>
                                        
                                     </div>
@@ -100,7 +100,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/yash.jpg" alt="author">
-                                            <a href="react-native-Instructor.php" class="author-name">Yash Nandha</a>
+                                            <a href="react-native-instructor.php" class="author-name">Yash Nandha</a>
                                         </div>
                                         <a href="react-native-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -123,7 +123,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/karan.jpg" alt="author">
-                                            <a href="flutter-Instructor.php" class="author-name">Karan Parmar</a>
+                                            <a href="flutter-instructor.php" class="author-name">Karan Parmar</a>
                                         </div>
                                         <a href="flutter-certification-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
