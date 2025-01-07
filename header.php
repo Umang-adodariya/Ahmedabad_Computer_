@@ -1,5 +1,6 @@
 <?php
 session_start();
+include_once 'meta.php';
 ?>
 <!doctype html>
 <html class="no-js" lang="zxx">
@@ -7,11 +8,10 @@ session_start();
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Ahmedabad Computer Education</title>
-    <meta name="author" content="themeholy">
-    <meta name="description" content="Ahmedabad Computer Education">
-    <meta name="keywords" content="Ahmedabad Computer Education">
-    <meta name="robots" content="INDEX,FOLLOW">
+    <title><?php echo $title; ?></title>
+    <meta name="description" content="<?php echo $description; ?>">
+    <meta name="keywords" content="<?php echo $keywords; ?>">
+    <meta name="robots" content="<?php echo $robots; ?>">
     <meta name="google-site-verification" content="5Wrx8p5sslP13-K6Uq1bjwiJ2kNnbwtSsyfPzxdsrlc" />
 
     <!-- Mobile Specific Metas -->
@@ -20,97 +20,17 @@ session_start();
     <link rel="icon" type="image/png" href="assets/img/favicons/favicon.png">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
-
-    <?php
-    // Check if the requested URL matches the desired URL
-
-    $baseName =  basename($_SERVER['REQUEST_URI']);
-    $currentUrl = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-    if ($baseName === 'ahmedabadcomputereducation.com') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'full-stack-blockchain-development-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'full-stack-react-development-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }    
-    if ($baseName === 'full-stack-angular-development-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'full-stack-python-development-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'full-stack-laravel-development-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'web-designing-training-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'graphic-and-ui-ux-design-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'game-development-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    } 
-    if ($baseName === 'devops-certification-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'react-native-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'flutter-certification-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'blockchain-training-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'metaverse-training-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'digital-marketing-training-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'seo-certification-training-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'business-development-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'business-analyst-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'software-testing-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'cyber-security-training-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'cms-certification-course.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'courses.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'instructors.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'about.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'event.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'gallery.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'blog.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    if ($baseName === 'contact.php') {
-        echo '<link rel="canonical" href="' . $currentUrl . '">';
-    }
-    ?>
+    <meta property="og:title" content="<?php echo $title; ?>">
+    <meta property="og:url" content="<?php echo $currentUrl; ?>">
+    <meta property="og:image" content="<?php echo $ogImage; ?>">
+    <meta property="og:description" content="<?php echo $description; ?>">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Ahmedabad Computer Education">
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:title" content="<?php echo $title; ?>">
+    <meta name="twitter:image" content="<?php echo $ogImage; ?>">
+    <meta property="twitter:description" content="<?php echo $description; ?>">
+    <link rel="canonical" href="<?php echo $canonical; ?>">
     <!--==============================
 	  Google Fonts
 	============================== -->
