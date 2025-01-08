@@ -296,29 +296,6 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat2 cat1">
-                            <div class="course-box2 style2">
-                                <div class="course-img">
-                                    <img src="assets/img/course/couses-new/course-blockchain.jpg" alt="course">
-                                    
-                                </div>
-                                <div class="course-content">
-                                    <div class="course-author">
-                                        <div class="author-info">
-                                            <img src="assets/img/80x80_3.png" alt="author">
-                                            <a href="blockchain-instructor.php" class="author-name">Ankit Patel</a>
-                                        </div>
-                                        
-                                    </div>
-                                    <h3 class="course-title"><a href="blockchain-training-course.php">Blockchain Training Course</a></h3>
-                                    <div class="course-meta">
-                                        <span><i class="fal fa-file"></i>Modules 12</span>
-                                        <span><i class="fal fa-user"></i>Students 130+</span>
-                                        <span><i class="fal fa-eye"></i>View: 10.9K</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat3 cat2">
                             <div class="course-box2 style2">
                                 <div class="course-img">
@@ -482,7 +459,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat2 cat4">
+                        <!-- <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat2 cat4">
                             <div class="course-box2 style2">
                                 <div class="course-img">
                                     <img src="assets/img/course/couses-new/267-cyber-security.jpg" alt="course">
@@ -491,8 +468,8 @@
                                 <div class="course-content">
                                     <div class="course-author">
                                         <div class="author-info">
-                                            <!-- <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a> -->
+                                            <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
+                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
                                         </div>
                                         
                                     </div>
@@ -504,7 +481,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="tab-pane fade " id="tab-list" role="tabpanel" aria-labelledby="tab-course-list">
@@ -776,30 +753,6 @@
                         <div class="col-12">
                             <div class="course-grid">
                                 <div class="course-img">
-                                    <img src="assets/img/course/couses-new/blockchain-350x250.jpg" alt="img">
-                                </div>
-                                <div class="course-content">
-                                   
-
-                                    <h3 class="course-title"><a href="blockchain-training-course.php">Blockchain Training Course</a></h3>
-                                    <p class="course-text">Dive into the Future of Technology with Blockchain Training in Ahmedabad & Indore! Our comprehensive Blockchain Training Course provides in-depth knowledge of blockchain technology, cryptocurrencies, and smart contracts.</p>
-                                    <div class="course-meta style2">
-                                        <span><i class="fal fa-file"></i>Modules 12</span>
-                                        <span><i class="fal fa-user"></i>Students 130+</span>
-                                    </div>
-                                    <div class="course-author">
-                                        <div class="author-info">
-                                            <img src="assets/img/80x80_3.png" alt="author">
-                                            <a href="blockchain-instructor.php" class="author-name">Ankit Patel</a>
-                                        </div>
-                                        <a href="blockchain-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="course-grid">
-                                <div class="course-img">
                                     <img src="assets/img/course/couses-new/350-metaverse.jpg" alt="img">
                                 </div>
                                 <div class="course-content">
@@ -963,7 +916,7 @@
                             </div>
                         </div>
 
-                        <div class="col-12">
+                        <!-- <div class="col-12">
                             <div class="course-grid">
                                 <div class="course-img">
                                     <img src="assets/img/course/couses-new/350-cyber-security.jpg" alt="img">
@@ -977,14 +930,14 @@
                                     </div>
                                     <div class="course-author">
                                         <div class="author-info">
-                                            <!-- <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a> -->
+                                            <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
+                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
                                         </div>
                                         <a href="cyber-security-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
                                 </div>
                             </div>
-                        </div>   
+                        </div>    -->
                     </div>
                 </div>
             </div>

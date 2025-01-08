@@ -120,18 +120,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-xl-4">
-                    <div class="category-card2">
-                        <div class="category-card2_icon">
-                            <img src="assets/img/update1/icon/category_1_2.svg" alt="icon">
-                        </div>
-                        <div class="category-card2_content">
-                            <h3 class="category-card2_title"><a href="blockchain-training-course.php">Blockchain Course</a></h3>
-                            <p class="category-card2_text">Dive into the world of blockchain technology and learn about its applications in finance, supply chain, and more. Understand smart contracts, cryptocurrency, and decentralized applications.</p>
-                            <a href="blockchain-training-course.php" class="link-btn">Learn More<i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-sm-6 col-xl-4">
                     <div class="category-card2">
                         <div class="category-card2_icon">
@@ -436,23 +425,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-4 filter-item cat6">
-                    <div class="course-box2">
-                        <div class="course-img">
-                            <img src="assets/img/home-course/BlockChain.jpg" alt="course">
-
-                        </div>
-                        <div class="course-content">
-                            <h3 class="course-title"><a href="blockchain-training-course.php">Blockchain Course</a></h3>
-
-                            <div class="course-meta">
-                                <span><i class="fal fa-file"></i>Modules 3</span>
-                                <span><i class="fal fa-user"></i>Students 130+</span>
-                                <span><i class="fal fa-eye"></i>View: 10.9K</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-md-6 col-xl-4 filter-item cat6">
                     <div class="course-box2">
                         <div class="course-img">
@@ -470,7 +443,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-4 filter-item cat6">
+                <!-- <div class="col-md-6 col-xl-4 filter-item cat6">
                     <div class="course-box2">
                         <div class="course-img">
                             <img src="assets/img/home-course/Cyber.jpg" alt="course">
@@ -486,7 +459,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-6 col-xl-4 filter-item cat6">
                     <div class="course-box2">
                         <div class="course-img">

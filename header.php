@@ -88,7 +88,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     window.location.replace("https://www.ahmedabadcomputereducation.com/seo-certification-training-course.php");
     }
     if(arr[3] == "courses" && arr[4] == "blockchain"){
-    window.location.replace("https://www.ahmedabadcomputereducation.com/blockchain-training-course.php");
+    window.location.replace("https://www.ahmedabadcomputereducation.com/full-stack-blockchain-development-course.php");
     }
     if(arr[3] == "courses" && arr[4] == "software-testing-training-course"){
     window.location.replace("https://www.ahmedabadcomputereducation.com/software-testing-course.php");
@@ -317,7 +317,7 @@ Mobile Menu
                                                 <li class="menu-item-has-children">
                                                     <a href="javascript:void(0)">Future-Oriented Course</a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="blockchain-training-course.php">Blockchain Course</a></li>
+                                                        <li><a href="full-stack-blockchain-development-course.php">Blockchain Course</a></li>
                                                         <li><a  href="metaverse-training-course.php">Metaverse Course</a></li>
                                                     </ul>
                                                 </li> 
@@ -372,9 +372,7 @@ Mobile Menu
     <input type="text" id="search_input" class="search-form-control"  placeholder="What are you looking for?">
     <button type="submit"><i class="fal fa-search"></i></button>
     <div id="result-box" class="result-box" style="display: none;">
-    <a href="blockchain-training-course.php" data-keywords="blockchain,full stack,development">Full Stack Blockchain Development Course</a>
-    <a href="full-stack-react-development-course.php" data-keywords="react,full stack,frontend,development">Full Stack React Development Course</a>
-    <a href="angular-detail.php" data-keywords="angular,full stack,frontend,development">Full Stack Angular Development Course</a>
+    <a href="full-stack-blockchain-development-course.php" data-keywords="blockchain,full stack,development">Full Stack Blockchain Development Course</a>
     <a href="full-stack-python-development-course.php" data-keywords="python,full stack,backend,development">Full Stack Python Development Course</a>
     <a href="full-stack-laravel-development-course.php" data-keywords="laravel,php,full stack,backend,development">Full Stack Laravel Development Course</a>
     <a href="web-designing-training-course.php" data-keywords="web designing,design,frontend">Web Designing Course</a>
@@ -387,7 +385,6 @@ Mobile Menu
     <a href="digital-marketing-training-course.php" data-keywords="digital marketing,seo,advertising">Digital Marketing Course</a>
     <a href="seo-certification-training-course.php" data-keywords="seo,search engine optimization">SEO Certification Course</a>
     <a href="software-testing-course.php" data-keywords="qa,software testing,testing">Software Testing Course</a>
-    <a href="cyber-security-detail.php" data-keywords="cyber security,hacking,network security">Cyber Security Course</a>
     <a href="cms-certification-course.php" data-keywords="cms,content management">CMS Course</a>
     <a href="business-development-course.php" data-keywords="business development,management,marketing">Business Development Course</a>
     <a href="business-analyst-course.php" data-keywords="business analyst,analysis">Business Analyst Course</a>
@@ -842,9 +839,9 @@ Header Area
                                                             </ul>
                                                             
                                                             <ul class="future-oriented">
-                                                                <li><a href="blockchain-training-course.php"><img src="assets/img/menu-ic/blockchain.png" alt="Blockchain"> Blockchain Course</a></li>
+                                                                <li><a href="full-stack-blockchain-development-course.php"><img src="assets/img/menu-ic/blockchain.png" alt="Blockchain"> Blockchain Course</a></li>
                                                                 <li><a href="metaverse-training-course.php"><img src="assets/img/menu-ic/choose.png" alt="Metaverse"> Metaverse Course</a></li>
-                                                                <li><a href="cyber-security-training-course.php"><img src="assets/img/menu-ic/cyber-security.png" alt="Cyber Security"> Cyber Security Course</a></li>
+                                                                <!-- <li><a href="cyber-security-training-course.php"><img src="assets/img/menu-ic/cyber-security.png" alt="Cyber Security"> Cyber Security Course</a></li> -->
                                                                 <li><a href="game-development-course.php"><img src="assets/img/menu-ic/game.png" alt="Game Development"> Game Development Course</a></li>
                                                                 <li><a href="devops-certification-course.php"><img src="assets/img/menu-ic/devops.png" alt="DevOps Certification"> DevOps Certification Course</a></li>
                                                             </ul>

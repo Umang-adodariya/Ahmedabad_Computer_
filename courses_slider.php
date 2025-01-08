@@ -297,7 +297,7 @@
                                 <span style="width:79%">Rated <strong class="rating">4.00</strong> out of 5</span>
                             </div>(4.7)
                         </div>
-                        <h3 class="course-title"><a href="blockchain-training-course.php">Blockchain Course</a></h3>
+                        <h3 class="course-title"><a href="full-stack-blockchain-development-course.php">Blockchain Course</a></h3>
                         <div class="course-meta">
                             <span><i class="fal fa-file"></i>Modules 3</span>
                             <span><i class="fal fa-user"></i>Students 130+</span>
@@ -487,8 +487,8 @@
                         </div>
                         <div class="course-author">
                             <div class="author-info">
-                                <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
+                                <!-- <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
+                                <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a> -->
                             </div>
                             
                         </div>
