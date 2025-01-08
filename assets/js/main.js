@@ -1406,6 +1406,69 @@
     //   }
     
 // start all form validation here important js //
+$("#instructorForm").on("submit",function(element){
+    element.preventDefault();
+    const $form = $(this); // Get the current form being submitted
+    const userName = $form.find('#name').val();
+    const email = $form.find('#email').val();
+    const number = $form.find('#number').val();
+    const message = $form.find('#message').val();
+    const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    const namePattern = /^[A-Za-z\s]+$/;
+    const phoneNumberPattern =/^[1-9][0-9]{9}$/;
+
+    var count = 0;
+    
+    if(userName){
+        if (!namePattern.test(userName.trim()) || userName.trim() === "") {
+            $('#instructor_name_error').html("Please enter a valid name.");
+            count++;
+        }else if(userName.length <3 || userName.length > 255){
+            $('#instructor_name_error').html("Name length is allow minimum 3 character or maximum 255 character.");
+            count++;
+        }else{
+            $('#instructor_name_error').html("");
+        }
+    }
+    if(email){
+        if (!emailPattern.test(email.trim()) || email.trim() === "") {
+            $('#instructor_email_error').html("Please enter a valid email.");
+            count++;
+        }else if(email.length > 255){
+            $('#instructor_email_error').html("Email length is allow maximum 255 character.");
+            count++;
+        }else{
+            $('#instructor_email_error').html("");
+        }
+    }
+    if(number){
+        if (/^0+$/.test(number.trim())) {
+            $('#instructor_number_error').html("Contact number cannot be all zeros.");
+            count++;
+        } else if (!phoneNumberPattern.test(number.trim())) {
+            $('#instructor_number_error').html("Contact number must be exactly 10 digits and cannot start with 0.");
+            count++;
+        } else if(number.length > 10){
+            $('#instructor_number_error').html("Contact number length is allow maximum 10 digits.");
+            count++;
+        }else{
+            $('#instructor_number_error').html("");
+        }
+    }
+    if (message.trim() == "") {
+        $('#instructor_message_error').html("Please write proper message.");
+        count++;
+    }else{
+        $('#instructor_message_error').html("");
+    }
+    
+    if(count>0){
+        return false;
+    }
+    else{
+        this.submit();
+    }
+})
 $("#contact_form").on("submit", function (element) {
     element.preventDefault();
     const $form = $(this); // Get the current form being submitted
@@ -1416,12 +1479,15 @@ $("#contact_form").on("submit", function (element) {
     const message = $form.find('#message').val();
     const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
     const namePattern = /^[A-Za-z\s]+$/;
-    const phoneNumberPattern = /^[0-9]{10}$/;
+    const phoneNumberPattern =/^[1-9][0-9]{9}$/;
 
     var count = 0;
     if(userName){
         if (!namePattern.test(userName.trim()) || userName.trim() === "") {
             $('#contact_name_error').html("Please enter a valid name.");
+            count++;
+        }else if(userName.length <3 || userName.length > 255){
+            $('#contact_name_error').html("Name length is allow minimum 3 character or maximum 255 character.");
             count++;
         }else{
             $('#contact_name_error').html("");
@@ -1431,19 +1497,28 @@ $("#contact_form").on("submit", function (element) {
         if (!emailPattern.test(email.trim()) || email.trim() === "") {
             $('#contact_email_error').html("Please enter a valid email.");
             count++;
+        }else if(email.length > 255){
+            $('#contact_email_error').html("Email length is allow maximum 255 character.");
+            count++;
         }else{
             $('#contact_email_error').html("");
         }
     }
     if(number){
-        if (!phoneNumberPattern.test(number.trim()) || number.trim() === "") {
-            $('#contact_number_error').html("Please enter a valid number.");
+        if (/^0+$/.test(number.trim())) {
+            $('#contact_number_error').html("Contact number cannot be all zeros.");
+            count++;
+        } else if (!phoneNumberPattern.test(number.trim())) {
+            $('#contact_number_error').html("Contact number must be exactly 10 digits and cannot start with 0.");
+            count++;
+        } else if(number.length > 10){
+            $('#contact_number_error').html("Contact number length is allow maximum 10 digits.");
             count++;
         }else{
             $('#contact_number_error').html("");
         }
     }
-    if (subject == "") {
+    if (subject == ""|| subject === null) {
         $('#contact_subject_error').html("Please select subject.");
         count++;
     }else{
@@ -1473,13 +1548,16 @@ $("#sidebar_form").on("submit", function (e) {
     const email = $form.find('#email').val();
     const number = $form.find('#number').val();
     const namePattern = /^[A-Za-z\s]+$/;
-    const phoneNumberPattern = /^[0-9]{10}$/;
+    const phoneNumberPattern = /^[1-9][0-9]{9}$/;
     const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
     var count = 0;
     if(userName){
         if (!namePattern.test(userName.trim()) || userName.trim() === "") {
             $('#sidebar_name_error').html("Please enter a valid name.");
+            count++;
+        }else if(userName.length <3 || userName.length > 255){
+            $('#sidebar_name_error').html("Name length is allow minimum 3 character or maximum 255 character.");
             count++;
         }else{
             $('#sidebar_name_error').html("");
@@ -1489,13 +1567,22 @@ $("#sidebar_form").on("submit", function (e) {
         if (!emailPattern.test(email.trim()) || email.trim() === "") {
             $('#sidebar_email_error').html("Please enter a valid email.");
             count++;
+        }else if(email.length > 255){
+            $('#sidebar_email_error').html("Email length is maximum 255 character.");
+            count++;
         }else{
             $('#sidebar_email_error').html("");
         }
     }
     if(number){
-        if (!phoneNumberPattern.test(number.trim()) || number.trim() === "") {
-            $('#sidebar_number_error').html("Allow only 10 digit.");
+        if (/^0+$/.test(number.trim())) {
+            $('#sidebar_number_error').html("Contact number cannot be all zeros.");
+            count++;
+        } else if (!phoneNumberPattern.test(number.trim())) {
+            $('#sidebar_number_error').html("Contact number must be exactly 10 digits and cannot start with 0.");
+            count++;
+        }else if(number.length > 10){
+            $('#sidebar_number_error').html("Contact number length is maximum 10 digits.");
             count++;
         }else{
             $('#sidebar_number_error').html("");
@@ -1524,6 +1611,9 @@ $("#blog_form").on("submit", function (e) {
         if (!namePattern.test(userName.trim()) || userName.trim() === "") {
             $('#blog_name_error').html("Please enter a valid name.");
             count++;
+        }else if(userName.length > 255 || userName.length<3){
+            $('#blog_name_error').html("Name length is allowed minimum 3 character or maximum 255 character.");
+            count++;
         }else{
             $('#blog_name_error').html("");
         }
@@ -1532,6 +1622,9 @@ $("#blog_form").on("submit", function (e) {
         if (!emailPattern.test(email.trim()) || email.trim() === "") {
             $('#blog_email_error').html("Please enter a valid email.");
             count++;
+        }else if(email.length > 255){
+            $('#blog_email_error').html("Email length is maximum 255 character.");
+            count++;
         }else{
             $('#blog_email_error').html("");
         }
@@ -1539,6 +1632,9 @@ $("#blog_form").on("submit", function (e) {
     if(comment){
         if (comment.trim() === "") {
             $('#blog_comment_error').html("Please enter a valid comment.");
+            count++;
+        }else if(comment.length > 255){
+            $('#blog_comment_error').html("Comment length is maximum 255 character.");
             count++;
         }else{
             $('#blog_comment_error').html("");
@@ -1559,20 +1655,29 @@ $('#get-in-touch-form').on('submit', function (e) {
     const userName = $form.find('#name').val();
     const number = $form.find('#number').val();
     const namePattern = /^[A-Za-z\s]+$/;
-    const phoneNumberPattern = /^[0-9]{10}$/;
+    const phoneNumberPattern =  /^[1-9][0-9]{9}$/;
 
     var count = 0;
     if(userName){
         if (!namePattern.test(userName.trim()) || userName.trim() === "") {
             $('#load_name_error').html("Please enter a valid name.");
             count++;
+        }else if(userName.length > 255 || userName.length < 3){
+            $('#load_name_error').html("Name length is allowed minimum 3 character or maximum 255 character.");
+            count++;
         }else{
             $('#load_name_error').html("");
         }
     }
     if(number){
-        if (!phoneNumberPattern.test(number.trim()) || number.trim() === "") {
-            $('#load_number_error').html("Allow only 10 digit.");
+        if (/^0+$/.test(number.trim())) {
+            $('#load_number_error').html("Contact number cannot be all zeros.");
+            count++;
+        } else if (!phoneNumberPattern.test(number.trim())) {
+            $('#load_number_error').html("Contact number must be exactly 10 digits and cannot start with 0.");
+            count++;
+        } else if(number.length > 10){
+            $('#load_number_error').html("Contact number length is allowed maximum 10 character.");
             count++;
         }else{
             $('#load_number_error').html("");
@@ -1600,13 +1705,16 @@ $('#register_form').on('submit', function (e) {
     const email = $form.find('#email').val();
     const number = $form.find('#number').val();
     const namePattern = /^[A-Za-z\s]+$/;
-    const phoneNumberPattern = /^[0-9]{10}$/;
+    const phoneNumberPattern = /^[1-9][0-9]{9}$/;
     const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
     var count = 0;
     if(userName){
         if (!namePattern.test(userName.trim()) || userName.trim() === "") {
             $('#register_name_error').html("Please enter a valid name.");
+            count++;
+        }else if(userName.length > 255 || userName.length < 3){
+            $('#register_name_error').html("Name length is allowed minimum 3 character or maximum 255 character.");
             count++;
         }else{
             $('#register_name_error').html("");
@@ -1616,15 +1724,24 @@ $('#register_form').on('submit', function (e) {
         if (!emailPattern.test(email.trim()) || email.trim() === "") {
             $('#register_email_error').html("Please enter a valid email.");
             count++;
+        }else if(email.length > 255){
+            $('#register_email_error').html("Email length is maximum 255 character.");
+            count++;
         }else{
             $('#register_email_error').html("");
         }
     }
     if(number){
-        if (!phoneNumberPattern.test(number.trim()) || number.trim() === "") {
-            $('#register_number_error').html("Allow only 10 digit.");
+        if (/^0+$/.test(number.trim())) {
+            $('#register_number_error').html("Contact number cannot be all zeros.");
             count++;
-        }else{
+        } else if (!phoneNumberPattern.test(number.trim())) {
+            $('#register_number_error').html("Contact number must be exactly 10 digits and cannot start with 0.");
+            count++;
+        } else if (number.length > 10) {
+            $('#register_number_error').html("Contact number length must be exactly 10 digits.");
+            count++;
+        } else {
             $('#register_number_error').html("");
         }
     }
@@ -1643,13 +1760,16 @@ $('.course-form').on('submit', function (e) {
     const email = $form.find('#email').val();
     const subject = $form.find('#subject').val();
     const namePattern = /^[A-Za-z\s]+$/;
-    const phoneNumberPattern = /^[0-9]{10}$/;
+    const phoneNumberPattern = /^[1-9][0-9]{9}$/;
     const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
     var count = 0;
     if(userName){
         if (!namePattern.test(userName.trim()) || userName.trim() === "") {
             $('#course_name_error').html("Please enter a valid name.");
+            count++;
+        }else if(userName.length > 255 || userName.length < 3){
+            $('#course_name_error').html("Name length is allowed minimum 3 character or maximum 255 character.");
             count++;
         }else{
             $('#course_name_error').html("");
@@ -1659,6 +1779,9 @@ $('.course-form').on('submit', function (e) {
         if (!emailPattern.test(email.trim()) || email.trim() === "") {
             $('#course_email_error').html("Please enter a valid email.");
             count++;
+        }else if(email.length > 255){
+            $('#course_email_error').html("Email length is maximum 255 character.");
+            count++;
         }else{
             $('#course_email_error').html("");
         }
@@ -1666,6 +1789,9 @@ $('.course-form').on('submit', function (e) {
     if(subject){
         if(subject.trim() === ""){
             $('#course_subject_error').html("Please enter valid subject.");
+            count++;
+        }else if(subject.length > 255){
+            $('#course_subject_error').html("Subject length is maximum 255 character.");
             count++;
         }else{
             $('#course_subject_error').html("");
@@ -1681,32 +1807,34 @@ $('.course-form').on('submit', function (e) {
 });
 
 function searchNames() {
-    const searchInput = document.getElementById('search_input').value.toLowerCase();  // Get input value and convert to lowercase
+    const searchInput = document.getElementById('search_input').value.toLowerCase(); // Get input value and convert to lowercase
     const resultBox = document.getElementById('result-box');
-    const items = resultBox.getElementsByTagName('a');  // Get all <p> tags inside result-box
+    const items = resultBox.getElementsByTagName('a'); // Get all <a> tags inside result-box
 
     let matchFound = false;
 
-    // Loop through each <p> tag and check if it matches the search input
+    // Loop through each <a> tag and check if it matches the search input
     for (let i = 0; i < items.length; i++) {
-        const name = items[i].textContent.toLowerCase();  // Get name and convert to lowercase
+        const name = items[i].textContent.toLowerCase(); // Get course name
+        const keywords = items[i].getAttribute('data-keywords').toLowerCase(); // Get keywords
 
-        // If the name includes the search input, show the item, otherwise hide it
-        if (name.includes(searchInput) && searchInput.length >= 1) {
-            items[i].style.display = 'block';  // Show matching item
+        // Check if the search input matches either the name or keywords
+        if ((name.includes(searchInput) || keywords.includes(searchInput)) && searchInput.length >= 1) {
+            items[i].style.display = 'block'; // Show matching item
             matchFound = true;
         } else {
-            items[i].style.display = 'none';  // Hide non-matching item
+            items[i].style.display = 'none'; // Hide non-matching item
         }
     }
 
-    // If no matches are found, hide the result box
+    // Show or hide the result box based on matches
     if (!matchFound || searchInput.length < 1) {
         resultBox.style.display = 'none';
     } else {
         resultBox.style.display = 'block';
     }
 }
+
 $("#search_input").on("keyup", function (e) {
     searchNames();
 });
@@ -1716,5 +1844,8 @@ $(".searchClose,.searchBoxToggler").on("click", function (e) {
     searchNames();
 });
 
+const today = new Date();
+const yesterday = new Date(today.setDate(today.getDate() - 1)); // Get yesterday's date
+document.getElementById('date').max = yesterday.toISOString().split('T')[0];
 })(jQuery);
 // end all form validation here important js //

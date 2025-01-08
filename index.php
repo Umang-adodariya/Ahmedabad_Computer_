@@ -716,7 +716,7 @@
                             </div>
                         </div> -->
                         <!-- Single Item -->
-                        <div class="col-md-6 col-lg-4">
+                        <!-- <div class="col-md-6 col-lg-4">
                             <div class="team-box">
                                 <div class="team-img">
                                     <img src="assets/img/instructor/home-instructor/05.jpg" alt="Team">
@@ -726,7 +726,7 @@
                                     <span class="team-desig">Cyber Security Expert</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Single Item -->
                         <div class="col-md-6 col-lg-4">
                             <div class="team-box">
@@ -912,7 +912,8 @@ Admission Area
                             </div>
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <input type="date" name="date" id="date" placeholder="Inspection Date*" class="text-start" required>
+                                    <input type="date" name="date" id="date" placeholder="Inspection Date*" class="text-start" required   onfocus="(this.type='date')" 
+                                    onblur="(this.type='text')" >
                                 </div>
                             </div>
                             <div class="col-lg-6">

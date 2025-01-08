@@ -274,14 +274,31 @@ function displayPage(page) {
 } 
 
 // Function to update pagination buttons and page numbers 
-function updatePagination() { 
-	prevButton.disabled = currentPage === 1; 
-	nextButton.disabled = currentPage === totalPages; 
-	pageLinks.forEach((link) => { 
-		const page = parseInt(link.getAttribute('data-page')); 
-		link.classList.toggle('active', page === currentPage); 
-	}); 
-} 
+function updatePagination() {
+    // Disable/Enable the Previous button
+    if (currentPage === 1) {
+        prevButton.classList.add('disabled');
+        prevButton.style.pointerEvents = 'none'; // Prevent clicking
+    } else {
+        prevButton.classList.remove('disabled');
+        prevButton.style.pointerEvents = 'auto'; // Enable clicking
+    }
+
+    // Disable/Enable the Next button
+    if (currentPage === totalPages) {
+        nextButton.classList.add('disabled');
+        nextButton.style.pointerEvents = 'none';
+    } else {
+        nextButton.classList.remove('disabled');
+        nextButton.style.pointerEvents = 'auto';
+    }
+
+    // Update active state for page links
+    pageLinks.forEach((link) => {
+        const page = parseInt(link.getAttribute('data-page'));
+        link.classList.toggle('active', page === currentPage);
+    });
+}
 
 // Event listener for "Previous" button 
 prevButton.addEventListener('click', () => { 

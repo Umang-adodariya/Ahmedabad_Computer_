@@ -372,26 +372,27 @@ Mobile Menu
     <input type="text" id="search_input" class="search-form-control"  placeholder="What are you looking for?">
     <button type="submit"><i class="fal fa-search"></i></button>
     <div id="result-box" class="result-box" style="display: none;">
-        <a href="blockchain-training-course.php">Full Stack Blockchain Development Course</a>
-        <a href="full-stack-react-development-course.php">Full Stack React Development Course</a>
-        <a href="angular-detail.php">Full Stack Angular Development Course</a>
-        <a href="full-stack-python-development-course.php">Full Stack Python Development Course</a>
-        <a href="full-stack-laravel-development-course.php">Full Stack Laravel Development Course</a>
-        <a href="web-designing-training-course.php">Web Designing Course</a>
-        <a href="graphic-and-ui-ux-design-course.php">Graphic & UI UX Design Course</a>
-        <a href="game-development-course.php">Game Development Course</a>
-        <a href="devops-certification-course.php">DevOps Certification Course</a>
-        <a href="flutter-certification-course.php">Flutter Certification Course</a>
-        <a href="react-native-course.php">React Native Course</a>
-        <a href="metaverse-training-course.php">Metaverse Course</a>
-        <a href="digital-marketing-training-course.php">Digital Marketing Course</a>
-        <a href="seo-certification-training-course.php">SEO Certification Course</a>
-        <a href="software-testing-course.php">Software Testing Course</a>
-        <a href="cyber-security-detail.php">Cyber Security Course</a>
-        <a href="cms-certification-course.php">CMS Course</a>
-        <a href="business-development-course.php">Business Development Course</a>
-        <a href="business-analyst-course.php">Business Analyst Course</a>
-     </div>
+    <a href="blockchain-training-course.php" data-keywords="blockchain,full stack,development">Full Stack Blockchain Development Course</a>
+    <a href="full-stack-react-development-course.php" data-keywords="react,full stack,frontend,development">Full Stack React Development Course</a>
+    <a href="angular-detail.php" data-keywords="angular,full stack,frontend,development">Full Stack Angular Development Course</a>
+    <a href="full-stack-python-development-course.php" data-keywords="python,full stack,backend,development">Full Stack Python Development Course</a>
+    <a href="full-stack-laravel-development-course.php" data-keywords="laravel,php,full stack,backend,development">Full Stack Laravel Development Course</a>
+    <a href="web-designing-training-course.php" data-keywords="web designing,design,frontend">Web Designing Course</a>
+    <a href="graphic-and-ui-ux-design-course.php" data-keywords="graphic design,ui,ux,design">Graphic & UI UX Design Course</a>
+    <a href="game-development-course.php" data-keywords="game development,gaming">Game Development Course</a>
+    <a href="devops-certification-course.php" data-keywords="devops,cloud,automation">DevOps Certification Course</a>
+    <a href="flutter-certification-course.php" data-keywords="flutter,app development,frontend">Flutter Certification Course</a>
+    <a href="react-native-course.php" data-keywords="react native,app development,frontend">React Native Course</a>
+    <a href="metaverse-training-course.php" data-keywords="metaverse,virtual reality,development">Metaverse Course</a>
+    <a href="digital-marketing-training-course.php" data-keywords="digital marketing,seo,advertising">Digital Marketing Course</a>
+    <a href="seo-certification-training-course.php" data-keywords="seo,search engine optimization">SEO Certification Course</a>
+    <a href="software-testing-course.php" data-keywords="qa,software testing,testing">Software Testing Course</a>
+    <a href="cyber-security-detail.php" data-keywords="cyber security,hacking,network security">Cyber Security Course</a>
+    <a href="cms-certification-course.php" data-keywords="cms,content management">CMS Course</a>
+    <a href="business-development-course.php" data-keywords="business development,management,marketing">Business Development Course</a>
+    <a href="business-analyst-course.php" data-keywords="business analyst,analysis">Business Analyst Course</a>
+</div>
+
 </form>
 </div>
 

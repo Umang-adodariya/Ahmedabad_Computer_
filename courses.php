@@ -457,29 +457,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat2 cat4">
-                            <div class="course-box2 style2">
-                                <div class="course-img">
-                                    <img src="assets/img/course/couses-new/267-cyber-security.jpg" alt="course">
-                                    
-                                </div>
-                                <div class="course-content">
-                                    <div class="course-author">
-                                        <div class="author-info">
-                                            <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
-                                        </div>
-                                        
-                                    </div>
-                                    <h3 class="course-title"><a href="cyber-security-training-course.php">Cyber Security Course</a></h3>
-                                    <div class="course-meta">
-                                        <span><i class="fal fa-file"></i>Modules 8</span>
-                                        <span><i class="fal fa-user"></i>Students 125+</span>
-                                        <span><i class="fal fa-eye"></i>View: 7K</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat2 cat4">
                             <div class="course-box2 style2">
                                 <div class="course-img">
@@ -499,6 +477,30 @@
                                         <span><i class="fal fa-file"></i>Modules 8</span>
                                         <span><i class="fal fa-user"></i>Students 140+</span>
                                         <span><i class="fal fa-eye"></i>View: 8.9K</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-4 col-xxl-3 filter-item cat2 cat4">
+                            <div class="course-box2 style2">
+                                <div class="course-img">
+                                    <img src="assets/img/course/couses-new/267-cyber-security.jpg" alt="course">
+                                    
+                                </div>
+                                <div class="course-content">
+                                    <div class="course-author">
+                                        <div class="author-info">
+                                            <!-- <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
+                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a> -->
+                                        </div>
+                                        
+                                    </div>
+                                    <h3 class="course-title"><a href="cyber-security-training-course.php">Cyber Security Course</a></h3>
+                                    <div class="course-meta">
+                                        <span><i class="fal fa-file"></i>Modules 8</span>
+                                        <span><i class="fal fa-user"></i>Students 125+</span>
+                                        <span><i class="fal fa-eye"></i>View: 7K</span>
                                     </div>
                                 </div>
                             </div>
@@ -937,29 +939,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12">
-                            <div class="course-grid">
-                                <div class="course-img">
-                                    <img src="assets/img/course/couses-new/350-cyber-security.jpg" alt="img">
-                                </div>
-                                <div class="course-content">
-                                    <h3 class="course-title"><a href="cyber-security-training-course.php">Cyber Security Course</a></h3>
-                                    <p class="course-text">Protect the Digital World with Our Cyber Security Course! Our hands-on cyber security training equips you with the tools and techniques to combat cyber threats. Learn ethical hacking, network security, incident response, and digital forensics.</p>
-                                    <div class="course-meta style2">
-                                        <span><i class="fal fa-file"></i>Modules 8</span>
-                                        <span><i class="fal fa-user"></i>Students 125+</span>
-                                    </div>
-                                    <div class="course-author">
-                                        <div class="author-info">
-                                            <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
-                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a>
-                                        </div>
-                                        <a href="cyber-security-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>   
-                        
+                                                
                         <div class="col-12">
                             <div class="course-grid">
                                 <div class="course-img">
@@ -982,6 +962,29 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="col-12">
+                            <div class="course-grid">
+                                <div class="course-img">
+                                    <img src="assets/img/course/couses-new/350-cyber-security.jpg" alt="img">
+                                </div>
+                                <div class="course-content">
+                                    <h3 class="course-title"><a href="cyber-security-training-course.php">Cyber Security Course</a></h3>
+                                    <p class="course-text">Protect the Digital World with Our Cyber Security Course! Our hands-on cyber security training equips you with the tools and techniques to combat cyber threats. Learn ethical hacking, network security, incident response, and digital forensics.</p>
+                                    <div class="course-meta style2">
+                                        <span><i class="fal fa-file"></i>Modules 8</span>
+                                        <span><i class="fal fa-user"></i>Students 125+</span>
+                                    </div>
+                                    <div class="course-author">
+                                        <div class="author-info">
+                                            <!-- <img src="assets/img/instructor/dixitbhai.jpg" alt="author">
+                                            <a href="cyber-security-instructor.php" class="author-name">Dixit Prajapati</a> -->
+                                        </div>
+                                        <a href="cyber-security-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>   
                     </div>
                 </div>
             </div>
