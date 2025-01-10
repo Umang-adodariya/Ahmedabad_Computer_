@@ -196,29 +196,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <script>
 function gtag_report_conversion(form,url) {
-    
-    var isValid = true;
-            // $('#'.form).each(function() {
-                var formId = form;
-                $(`#${formId} input, #${formId} select, #${formId} textarea`).each(function () {
-                
-                if ($(this).val() == '')
-                    isValid = false;
-                    
-            });
-            if(isValid == false){
-                return false;
-        }
-    var callback = function () {
-    if (typeof(url) != 'undefined') {
-      window.location = url;
-    }
-  };
-  gtag('event', 'conversion', {
-      'send_to': 'AW-16663588657/BH8aCJCTzvgZELHe6Ik-',
-      'event_callback': callback
-  });
-  return false;
+
+var callback = function () {
+if (typeof(url) != 'undefined') {
+  window.location = url;
+}
+};
+gtag('event', 'conversion', {
+  'send_to': 'AW-16663588657/BH8aCJCTzvgZELHe6Ik-',
+  'event_callback': callback
+});
+return false;
 }
 </script>
    </head>
