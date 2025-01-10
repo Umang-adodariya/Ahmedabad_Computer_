@@ -190,16 +190,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script>
 function gtag_report_conversion(form,url) {
-
-    var isValid = true;
-    var formId = form;
-    $(`#${formId} input, #${formId} select, #${formId} textarea`).each(function () {
-                if ($(this).val() === '')
-                    isValid = false;
-            });
-            if(isValid == false){
-                return false;
-            }
     var callback = function () {
     if (typeof(url) != 'undefined') {
       window.location = url;
