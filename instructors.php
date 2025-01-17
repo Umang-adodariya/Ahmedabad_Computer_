@@ -80,7 +80,7 @@
                     <div class="team-card style3">  
                         <div class="team-img-wrap">
                             <div class="team-img">
-                                <img src="assets/img/instructor/nilesh-goud.jpg" alt="Python Expert">
+                                <img src="assets/img/instructor/instructorDetail/nilesh-goud.jpg" alt="Python Expert">
                             </div>
                         </div>
                         <div class="team-hover-wrap">
@@ -118,7 +118,7 @@
                     <div class="team-card style3">  
                         <div class="team-img-wrap">
                             <div class="team-img">
-                                <img src="assets/img/instructor/bhargav-limbasiya.jpg" alt="PHP/Laravel Expert">
+                                <img src="assets/img/instructor/instructorDetail/bhargav-limbasiya.jpg" alt="PHP/Laravel Expert">
                             </div>
                         </div>
                         <div class="team-hover-wrap">
@@ -137,7 +137,7 @@
                     <div class="team-card style3">  
                         <div class="team-img-wrap">
                             <div class="team-img">
-                                <img src="assets/img/instructor/saloni-suthar.jpg" alt="Web Design Expert">
+                                <img src="assets/img/instructor/instructorDetail/saloni-suthar.jpg" alt="Web Design Expert">
                             </div>
                         </div>
                         <div class="team-hover-wrap">
@@ -251,7 +251,7 @@
                     <div class="team-card style3">
                         <div class="team-img-wrap">
                             <div class="team-img">
-                                <img src="assets/img/instructor/tarak-shah.png" alt="Digital Marketing Expert">
+                                <img src="assets/img/instructor/instructorDetail/tarak-shah.png" alt="Digital Marketing Expert">
                             </div>
                         </div>
                         <div class="team-hover-wrap">
