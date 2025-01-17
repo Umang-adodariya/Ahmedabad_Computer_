@@ -51,31 +51,77 @@
                             <div class="tab-content" id="productTabContent">
                                 <div class="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                                     <div class="course-description">
-                                        <h5 class="h5">Description</h5>
-                                        <p>WordPress is an open source Content Management System (CMS),which allows the users to build dynamic websites and blogs. WordPress is the most popular blogging system on the web and allows updating, customizing and managing the website from its back-end CMS and components.</p>
-                                        <h5 class="h5 mt-40">What Will You Learn?</h5>
-                                        <p>Quickly synergize cutting-edge scenarios and professional results. Assertively deliver cross-media results before client-centric results. Uniquely initiate intuitive communities through process-centric internal or "organic" sources. Energistically reinvent distinctive value via parallel services extensive paradigms cross-unit manufactured products.</p>
-                                        <div class="row mt-25">
-                                            <div class="col-lg-6">
-                                                <div class="checklist mb-4">
-                                                    <ul>
-                                                        <li>Theme Development</li>
-                                                        <li>Plugin Development</li>
-                                                        <li>PSD to Wordpress</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-6">
-                                                <div class="checklist">
-                                                    <ul>
-                                                        <li>Support and Maintenance</li>
-                                                        <li>Responsive Design</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h5 class="h5 mt-40">Certification</h5>
-                                        <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p>
+                                        <h5 class="h5">Course summary</h5>
+                                        <p>Our WordPress certification training course is directed towards making you a skilled professional in using this underrated and most-hyped Content Management System in today’s digital realm. From organizing digital content with WordPress to building a complete website from scratch on this CMS, we will train you in various arenas so that you can have a well-defined career roadmap for the coming years. Leverage our personalized one-on-one sessions led by industry experts to learn further about the challenges and chokepoints often faced while working with a complex platform like WordPress.</p>
+                                        <h5 class="h5 mt-40">Course highlights</h5>
+                                        <p>CMS or Content Management System is a specialized platform that allows you to create, modify, and manage digital content of various types on the website without making any changes in the base code. Whether you want to upload a new blog or modify the webpage images, CMS makes it easier to handle these tasks and eliminates the dependencies on code and programming knowledge. While there are numerous such platforms widely being used, it is WordPress that has set the bar high for digital marketers and has proven to be one of the most competitive CMS platforms with advanced features.</p>
+                                        <p>Our <b>WordPress training course in Ahmedabad</b> will help you learn various aspects of this platform, including content creation and management, WordPress SEO, WordPress tag creation, media handling, WordPress theme customizer, adding plugins from the built-in library, and managing WordPress comments with Akismet. With Ahmedabad Computer Education, you can rest assured that your career as a digital marketer or content creator will be glorious and successful, especially since you will acquire the expertise and the needed skills for working with a complex CMS platform like WordPress.</p>
+
+                                        <h5 class="h5 mt-40">What makes WordPress the best CMS platform?</h5>
+                                        <p>Are you wondering why WordPress has become the most competitive Content Management System platform and raised the standards by several notches when compared to other CMS tools?</p>
+                                        <p>If yes, let’s not delay any longer and explore some of the specialties of WordPress that make it one of the major tools to be used for digital content creation and management. Besides, these explanations will help you understand why most top recruiters in today’s industry prefer professionals having expert knowledge in WordPress.</p>
+
+                                        <h5 class="h5 mt-40">User-friendliness</h5>
+                                        <p>Thanks to the user-friendly interface, it won’t be hard for you to learn its usage and understand the special features of this platform. Even if you do not have a strong hold on programming or technical knowledge, learning WordPress usage won’t be a problem any longer. Apart from this, the visual window will let you view the website once the content is published, thereby allowing you to make necessary changes according to your expectations.</p>
+
+                                        <h5 class="h5 mt-40">Customization and flexibility</h5>
+                                        <p>WordPress is known for the vast library of themes, both free and paid, that can be customized to match the brand story and your preferred UI design concepts. You will be able to adjust the template elements and the design layout in the built-in editor without having to work on any script or codebase. Additionally, you can access a myriad of plugins (50,000) that will help you extend the website’s functionality and add special features like eCommerce, SEO optimization, analytics, and many more.</p>
+
+                                        <h5 class="h5 mt-40">Free and open-source</h5>
+                                        <p>WordPress is free to use, meaning you won’t have to pay a subscription fee for downloading the application or using the basic features. However, if you want to purchase a new domain or access the premium themes and plugins, you do need to pay for the same. Apart from this, the CMS is an open-source platform, meaning you will have the support of a large developers’ community and designing enthusiasts to resolve any chokepoint.</p>
+
+                                        <h5 class="h5 mt-40">SEO-friendliness</h5>
+                                        <p>Our <b>WordPress course for beginners</b> includes learning about various SEO-targeted features that you can use to optimize the textual and visual content elements so that the website can rank higher. For instance, we will help you learn more about creating custom URLs for category and product-specific pages, using the automatic sitemap generator, and leveraging image alt text. Also, we will give you detailed knowledge about SEO-based plugins present in WordPress’s built-in library, like RankMath and Yoast SEO.</p>
+
+                                        <h5 class="h5 mt-40">Mobile responsiveness</h5>
+                                        <p>One of the many reasons to learn this CMS platform is the availability of device-responsive themes, which will further help you cater to a vast group of audiences, including mobile users. Using these themes will eliminate the additional need to deploy cross-platform and device responsive codes as the pages will automatically load on different devices by altering the layout and rendering the UI elements internally.</p>
+
+                                        <h5 class="h5 mt-40">Content publishing and management</h5>
+                                        <p>Also, using WordPress will give you the independence of scheduling the content to be posted on the website, thereby eliminating the manual efforts needed to create and post the content pages individually. Furthermore, you can leverage this Content Management Platform to differentiate your content pieces into different categories, taxonomies, and tags for better management and control.</p>
+
+                                        <h5 class="h5 mt-40">Why learning WordPress is profitable for everyone?</h5>
+                                        <p>Before you enroll in our <b>online WordPress course</b>, let’s understand the key benefits you will gain through our industry-led expert training sessions. With this detailed explanation, it will become easier for you to make a well-informed decision about your career goals and objectives.</p>
+
+                                        <h5 class="h5 mt-40">Familiarization with CMS</h5>
+                                        <p>Our WordPress certification training course will help you become more familiar with this CMS platform and the features you can use to build a website, optimize on-page content as per SEO guidelines, upload and manage visual content like videos and images, and develop custom themes aligned with the brand story. Apart from this, we will also help you know more about specific plugins that can be used to integrate the website with other platforms, like eCommerce storefront, and maintain high-end security protocols for the website.</p>
+
+                                        <h5 class="h5 mt-40">Ability to build a website</h5>
+                                        <p>Once you complete our <b>WordPress training course in Indore</b>, building a website from scratch won’t be a hassle anymore for you. Whether it’s designing the custom layout and adding all the UI elements as per the initial wireframe or building the content structure with automatic site markup, WordPress offers a drag-and-drop feature and eliminates the need of any programming skills of the user.</p>
+
+                                        <h5 class="h5 mt-40">Increased job opportunities</h5>
+                                        <p>Also, with detailed expertise in WordPress and its features, you will have a vast sea of job opportunities for a glorious career profile. You can either opt for freelance projects or work with an employer across various industries, from eCommerce to digital marketing, healthcare, education, and even IT. Besides, you can also build a credible and strong resume to apply for jobs with a higher paying scale and versatile job roles and responsibilities.</p>
+
+                                        <h5 class="h5 mt-40">Proficiency in theme and plugin customization</h5>
+                                        <p>Our <b>WordPress training course in Ahmedabad</b> will increase your proficiency in developing custom themes and plugins for the concerned website. We will train you in using the WordPress theme customizer, a built-in tool that allows users to define a custom design layout, drag and drop different design elements, and choose the best theme features aligned with the brand story and purpose. Additionally, we will also provide insights about WordPress plugins and widgets, which can be integrated with the website to extend its functionality.</p>
+
+                                        <h5 class="h5 mt-40">Better management and control of digital content</h5>
+                                        <p>With Ahmedabad Computer Education, you can rest assured that you will gain accurate and strong skills in creating and managing digital content for any website, including both textual and visual content types. Whether it’s categorizing the large content volume using special tags or adding image alt text for all the photographs to be published with the specific content, you won’t have any problem in curating engaging and SEO-optimized content for your client.</p>
+
+                                        <h5 class="h5 mt-40">How will Ahmedabad Computer Education help advance your career as a WordPress expert?</h5>
+                                        <p>At Ahmedabad Computer Education, we will help you gain the necessary skills required to prepare a strong and credible resume for a WordPress expert. Our industry-expert-led training sessions are tailored to clarify all your doubts and problems regarding any aspect of WordPress or the usage workflow of this Content Management System. You can learn the basics of WordPress, theme and plugin customization, digital media handling, and many other features that are essential for building a website from scratch and managing online content without coding. So, wait no longer and get yourself enrolled in our <b>WordPress course for beginners.</b></p>
+                                        
+                                        <h5 class="h5 mt-40">FAQ</h5>
+
+                                        <h5 class="h5 mt-40">Where can I find an affordable WordPress training course?</h5>
+                                        <p>If you are looking for an affordable <b>WordPress course for beginners</b>, do not look any further and connect with us at Ahmedabad Computer Education.</p>
+                                        
+                                        <h5 class="h5 mt-40">Do you offer career counseling for WordPress training course?</h5>
+                                        <p>Yes, at Ahmedabad Computer Education, we offer personalized career counseling so that you can find the best job roles based on the skills acquired through our <b>WordPress training course in Indore.</b></p>
+
+                                        <h5 class="h5 mt-40">What are the best job roles for a WordPress expert?</h5>
+                                        <p>If you are a WordPress expert, there are several job roles you can apply for, including WordPress developer, WordPress web designer, WordPress theme developer, WordPress site manager, WordPress SEO specialist, and WordPress content manager.</p>
+
+                                        <h5 class="h5 mt-40">Will WordPress allow me to customize themes for my website?</h5>
+                                        <p>One of the many reasons why WordPress has become a top-notch CMS platform is the customization options for the webpage theme and design layout.</p>
+
+                                        <h5 class="h5 mt-40">Is WordPress free to use?</h5>
+                                        <p>WordPress is generally free to use with no additional subscription fee. However, if you want to access special domain names or premium themes, you will have to pay a certain package amount.</p>
+
+                                        <h5 class="h5 mt-40">How to become a skilled WordPress expert?</h5>
+                                        <p>If you want to become a CMS expert, it’s time you enroll your name in our <b>WordPress training course in Ahmedabad.</b></p>
+
+                                        <h5 class="h5 mt-40">How can I enroll in your WordPress certification course?</h5>
+                                        <p>To enroll in our <b>online WordPress course</b>, connect with our experts to learn more about the end-to-end registration process and get started at the earliest. </p>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">

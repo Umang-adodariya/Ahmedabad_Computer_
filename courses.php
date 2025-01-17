@@ -138,7 +138,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/bhargav-limbasiya.jpg" alt="author">
-                                            <a href="javascript:void(0)" class="author-name">Bhargav Limbasiya</a>
+                                            <a href="laravel-instructor.php" class="author-name">Bhargav Limbasiya</a>
                                         </div>
                                         
                                     </div>
@@ -164,7 +164,7 @@
                                     <div class="course-author">
                                         <div class="author-info">
                                             <img src="assets/img/instructor/instructorDetail/saloni-suthar.jpg" alt="author">
-                                            <a href="javascript:void(0)" class="author-name">Saloni Suthar</a>
+                                            <a href="web-design-instructor.php" class="author-name">Saloni Suthar</a>
                                         </div>
                                         
                                     </div>
@@ -597,8 +597,8 @@
                                     </div>
                                     <div class="course-author">
                                         <div class="author-info">
-                                            <img src="assets/img/80x80.png" alt="author">
-                                            <a href="javascript:void(0)" class="author-name">Bhargav Limbasiya</a>
+                                            <img src="assets/img/instructor/bhargav-limbasiya.jpg" alt="author">
+                                            <a href="laravel-instructor.php" class="author-name">Bhargav Limbasiya</a>
                                         </div>
                                         <a href="full-stack-laravel-development-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>
@@ -621,8 +621,8 @@
                                     </div>
                                     <div class="course-author">
                                         <div class="author-info">
-                                            <img src="assets/img/80x80.png" alt="author">
-                                            <a href="javascript:void(0)" class="author-name">Saloni Suthar</a>
+                                            <img src="assets/img/instructor/instructorDetail/saloni-suthar.jpg" alt="author">
+                                            <a href="web-design-instructor.php" class="author-name">Saloni Suthar</a>
                                         </div>
                                         <a href="web-designing-training-course.php" class="link-btn">View Details<i class="fas fa-arrow-right ms-2"></i></a>
                                     </div>

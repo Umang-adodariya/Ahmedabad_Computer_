@@ -75,7 +75,7 @@
             <div class="space-top">
                 <div class="row">
                     <div class="col-lg-8">
-                        <p>man Patel is a skilled Business Development Executive with a passion for driving growth and building strong client relationships. With a focus on strategic partnerships, market analysis, and sales execution, Aman is dedicated to helping businesses achieve their goals.</p>
+                        <p>Aman Patel is a skilled Business Development Executive with a passion for driving growth and building strong client relationships. With a focus on strategic partnerships, market analysis, and sales execution, Aman is dedicated to helping businesses achieve their goals.</p>
                         <h3 class="title h4 fw-semibold mb-40">Areas of Expertise:</h3>
                         <div class="checklist mb-40">
                             <ul class="course-acc-ul">

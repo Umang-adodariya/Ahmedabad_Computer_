@@ -40,6 +40,24 @@
                     <div class="event-card mt-0">
                         <div class="event-card_content">
                         <div class="course-img mb-4">
+                            <img src="assets/img/events/past-events/event-apollo-institute.jpg" alt="course">
+
+                        </div>
+                        <div class="event-meta">
+                                <p><i class="fal fa-location-dot"></i>Apollo Institute of Engineering and Technology</p>
+                            </div>
+                            <h3 class="event-card_title m-0"><a>Internship Drive for Students of IT/Computer Branch.
+                            </a></h3>
+                            <div class="event-card-shape jump">
+                                <img src="assets/img/event/event-box-shape1.png" alt="img">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-xl-4">
+                    <div class="event-card mt-0">
+                        <div class="event-card_content">
+                        <div class="course-img mb-4">
                             <img src="assets/img/events/past-events/event-1.jpg" alt="course">
 
                         </div>

@@ -109,6 +109,20 @@
                                             </ul>
                                         </div>                                        
                                         <h5 class="h5 mt-40">FAQs</h5>
+                                        <h6 class="h6 mt-40">Where can I find an affordable metaverse certification course?</h6>
+                                        <p>If you are planning to pursue an affordable <b>metaverse certification course</b>, Ahmedabad Computer Education is your one-stop destination since we never compromise with the education quality and the course fees.</p>
+                                        <h6 class="h6 mt-40">Is your Metaverse certification course suitable for professionals also?</h6>
+                                        <p>Even if you are an experienced professional and want to master the concepts of Metaverse development, our course program will be your best shot in nurturing the skills and understanding the core concepts.</p>
+                                        <h6 class="h6 mt-40">What are the tools required for metaverse development?</h6>
+                                        <p>Although numerous tools can be used for metaverse development, we will train you on Sparkar, Unity 3D, Unreal Engine, Cybernetics, and Amazon Sumerian.</p>
+                                        <h6 class="h6 mt-40">Do you offer a guarantee on job placements?</h6>
+                                        <p>Our <b>metaverse development course in Ahmedabad</b> comes with 100% job placement guarantee along with personalized career counseling sessions so that you can build a glorious and thriving career roadmap for yourself.</p>
+                                        <h6 class="h6 mt-40">What are the technologies involved in the metaverse?</h6>
+                                        <p>Metaverse is comprised of numerous technologies, including augmented reality, virtual reality, mixed reality, blockchain, NFT development, and artificial intelligence.</p>
+                                        <h6 class="h6 mt-40">How can I enroll in your metaverse development course?</h6>
+                                        <p>To enroll in your <b>Metaverse certification courses</b>, you can visit our official website and check the curriculum. Once you are satisfied, connect with our experts to learn more about the registration process and the fee structure.</p>
+                                        <h6 class="h6 mt-40">Do you offer training on real-life metaverse development projects?</h6>
+                                        <p>Yes, with Ahmedabad Computer Education, you will receive first-hand experience of developing a real-life metaverse project through our curated practical training sessions.</p>
                                     </div>                                    
                                 </div>
                                 <div class="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">

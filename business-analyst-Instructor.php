@@ -111,7 +111,7 @@
                       
                         <div class="checklist style5 mt-30">
                             <ul>
-                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>ertified Business Analyst Professional (CBAP)</b> - Simplilearn</div>
+                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Certified Business Analyst Professional (CBAP)</b> - Simplilearn</div>
                                 </li>
                                 <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Bachelor of Science in Information and Technology</b></div>
                                 </li>
