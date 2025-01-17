@@ -25,14 +25,12 @@
                         <div class="course-single-top">
                             <div class="course-img">
                                 <img src="assets/img/courses/corses-main/mern-stack.jpg" alt="Course Image">
-                                <span class="tag"><i class="fas fa-clock"></i> 03 WEEKS</span>
-                                <span class="tag bg-theme">BEST SELLER</span>
                             </div>
                             <div class="course-meta style2">
                                 <span><i class="fal fa-file"></i>Lesson 8</span>
                                 <span><i class="fal fa-user"></i>Students 60+</span>
                             </div>
-                            <h2 class="course-title">Full Stack Mern Development Course</h2>
+                            <h2 class="course-title">MERN Stack Development Course</h2>
                         </div>
                         <div class="course-single-bottom">
                             <ul class="nav course-tab" id="courseTab" role="tablist">

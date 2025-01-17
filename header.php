@@ -820,6 +820,7 @@ Header Area
                                                                 <!-- <li><a href="full-stack-angular-development-course.php"><img src="assets/img/menu-ic/programing.png" alt="Angular Development">Full Stack Angular Development Course</a></li> -->
                                                                 <li><a href="full-stack-python-development-course.php"><img src="assets/img/menu-ic/python.png" alt="Python Development">Full Stack Python Development Course</a></li>
                                                                 <li><a href="full-stack-laravel-development-course.php"><img src="assets/img/menu-ic/php.png" alt="Laravel Development">Full Stack Laravel Development Course</a></li>
+                                                                <li><a href="mern-stack-development-course.php"><img src="assets/img/menu-ic/MERN-Stack.png" alt="Software">MERN Stack Development Course</a></li>
                                                                 <li><a href="software-testing-course.php"><img src="assets/img/menu-ic/testing.png" alt="Software"> Software Testing Course</a></li>
                                                             </ul>
                                                             <ul class="">
