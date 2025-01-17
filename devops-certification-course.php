@@ -96,7 +96,31 @@
                                     <h6 class="h6 mt-40">DevOps architect</h6>
                                     <p>Another wonderful job role you can opt for after completing our DevOps training with placement is that of a DevOps architect, where you will be responsible for creating the best solutions using DevOps principles, boosting collaboration between cross-functional teams, and selecting the right tech stack for the project.</p>
                                     <h5 class="h5 mt-40">Learn DevOps from industry experts at Ahmedabad Computer Education</h5>
+                                    <p>Being the <b>best DevOps institute Ahmedabad</b>, ACE will prepare you in a way that you can certainly secure a job of your choice as a certified DevOps professional. Our course curriculum covers all the necessary topics that you should learn to become a skilled expert in this field, like DevOps architecture, automation testing, containerization and orchestration, version control, and many more. Apart from this, we will also help you master different tools required for integrating DevOps principles, like Jenkins, Docker, Kubernetes, and many more.</p>
+                                    <p>Some of the major benefits of opting the <b>best DevOps training course in Ahmedabad</b> from ACE are:</p>
+                                    <div class="checklist mt-40">
+                                        <ul>
+                                            <li>Industry-approved certification: On completing the course on DevOps, you will receive a certification that is globally accredited and will help you add more value to your career profile.</li>
+                                            <li>One-on-one training: Our academic experts will give you one-on-one training with personalized sessions so that you can master the concepts and understand DevOps in a better way.</li>
+                                            <li>Industry-led expert training: All our trainers are industry experts in DevOps and they are aware of the real-time implementation of different approaches, like CI/CD pipeline, version control, DevOps orchestration, and many more.</li>
+                                            <li>Guaranteed placement: We promise you that our <b>top DevOps courses Indore</b> will help you in the recruitment drives with guaranteed placement in one of the top-notch companies.</li>
+                                        </ul>
+                                    </div>
                                     <h5 class="h5 mt-40">FAQs</h5>
+                                    <h6 class="h6 mt-40">Why should I learn DevOps?</h6>
+                                    <p>Learning DevOps will help you implement CI/CD pipelines for automating the entire build and testing cycles along with other practices like repository version control, Infrastructure-as-Code, and DevOps security practices.</p>
+                                    <h6 class="h6 mt-40">What are the job roles I can opt for as a DevOps professional?</h6>
+                                    <p>As a DevOps professional, you can opt for multifarious job roles, like DevOps engineer, Site Reliability Engineer, DevOps Security engineer, Build and Release engineer, and automation engineer.</p>
+                                    <h6 class="h6 mt-40">Does DevOps require coding?</h6>
+                                    <p>No, DevOps doesn’t require coding too much. However, it would be best if you could learn Python and Bash for scripting.</p>
+                                    <h6 class="h6 mt-40">Can I automate workflows using DevOps?</h6>
+                                    <p>Yes, DevOps supports workflow automation through the implementation of CI/CD pipelines.</p>
+                                    <h6 class="h6 mt-40">How can I enroll in your DevOps program?</h6>
+                                    <p>If you want to enroll in our <b>DevOps certification course</b>, visit our website and fill out the form with all the necessary details.</p>
+                                    <h6 class="h6 mt-40">Will you give me a certificate for the DevOps course?</h6>
+                                    <p>Yes, we will provide you with an industry-accredited certificate for completing our DevOps training course.</p>
+                                    <h6 class="h6 mt-40">Do you offer career counseling for DevOps?</h6>
+                                    <p>At Ahmedabad Computer Education, we will provide you detailed career counseling so that you can choose the best job role as a DevOps professional.</p>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">

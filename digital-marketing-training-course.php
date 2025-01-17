@@ -550,11 +550,11 @@
                                     <div class="course-instructor">
                                         <div class="course-author-box">
                                             <div class="auhtor-img">
-                                                <img src="assets/img/instructor/hinal.jpg" alt="Author Image">
+                                                <img src="assets/img/instructor/tarak-shah.png" alt="Author Image">
                                             </div>
                                             <div class="media-body">
-                                                <h3 class="author-name"><a class="text-inherit" href="digital-marketing-instructor.php">Hinal Joshi</a></h3>
-                                                <p class="author-text">Hinal Joshi is a seasoned Digital Marketing & SEO expert with over 4 years of hands-on experience. She has successfully implemented strategies for a diverse range of industries, including fashion, e-commerce, manufacturing, healthcare, and education.</p>
+                                                <h3 class="author-name"><a class="text-inherit" href="digital-marketing-instructor.php">Tarak Shah</a></h3>
+                                                <p class="author-text">Tarak Shah is a seasoned Digital Marketing & SEO expert with over 4 years of hands-on experience. He has successfully implemented strategies for a diverse range of industries, including fashion, e-commerce, manufacturing, healthcare, and education.</p>
                                                 <div class="author-meta">
                                                     <a><i class="fal fa-file-video"></i>1 Course</a>
                                                     <span><i class="fal fa-users"></i>200+ Students</span>

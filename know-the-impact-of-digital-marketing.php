@@ -27,7 +27,7 @@
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a class="author" ><i class="far fa-user"></i>Hinal</a>
+                                <a class="author" ><i class="far fa-user"></i>ACE</a>
                                 <a><i class="fa-light fa-calendar-days"></i>26 December, 2023</a>
                             </div>
                             
@@ -68,7 +68,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="th-comments-wrap ">
+                    <!-- <div class="th-comments-wrap ">
                         <h2 class="blog-inner-title h5"> Comments (3)</h2>
                         <ul class="comment-list">
                             <li class="th-comment-item">
@@ -119,7 +119,7 @@
                                 </div>
                             </li>
                         </ul>
-                    </div> <!-- Comment end -->
+                    </div> Comment end -->
                     <!-- Comment Form -->
                     <?php include('blogCommentForm.php'); ?>
                 </div>
@@ -131,7 +131,7 @@
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="react-training-blog.php"><img src="assets/img/blog/recent-1.jpg" alt="Blog Image"></a>
+                                        <a ><img src="assets/img/blog/recent-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
                                         <h4 class="post-title"><a class="text-inherit" href="react-training-blog.php">Building Interactive User Interfaces with React: Training for Developers</a></h4>
@@ -142,7 +142,7 @@
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="digital-marketing-blog.php"><img src="assets/img/blog/recent-2.jpg" alt="Blog Image"></a>
+                                        <a ><img src="assets/img/blog/recent-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
                                         <h4 class="post-title"><a class="text-inherit" href="digital-marketing-blog.php">Elevate Your Brand: The Impact of Digital Marketing Courses on Business Growth</a></h4>
@@ -153,7 +153,7 @@
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blockchain-blog.php"><img src="assets/img/blog/recent-3.jpg" alt="Blog Image"></a>
+                                        <a ><img src="assets/img/blog/recent-3.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
                                         <h4 class="post-title"><a class="text-inherit" href="blockchain-blog.php">Building a Future-Ready Career: Exploring the Benefits of a Blockchain Internship Program</a></h4>

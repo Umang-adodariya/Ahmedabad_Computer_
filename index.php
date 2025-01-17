@@ -635,7 +635,7 @@
                     </div>
                     <p class="mb-30 text-center text-xl-start">Our team of experienced and certified instructors are passionate about teaching and committed to your success. They have extensive industry experience and are up-to-date on the latest technologies.</p>
                     <div class="text-center text-xl-start">
-                        <a href="team.php" class="th-btn">View All Instructors<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="instructors.php" class="th-btn">View All Instructors<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-6">

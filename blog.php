@@ -29,7 +29,7 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>Hinal</a>
+                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>ACE</a>
                                 <a href="blog.php"><i class="fa-light fa-clock"></i>28 December, 2023</a>
                             </div>
                             <h2 class="blog-title"><a href="react-training-blog.php">Building Interactive User Interfaces with React: Training for Developers</a>
@@ -46,7 +46,7 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a class="author" href="blog.php"><i class="far fa-user"></i>Hinal</a>
+                                <a class="author" href="blog.php"><i class="far fa-user"></i>ACE</a>
                                 <a href="blog.php"><i class="fa-light fa-calendar-days"></i>26 December, 2023</a>
                                
                             </div>
@@ -62,7 +62,7 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>Hinal</a>
+                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>ACE</a>
                                 <a href="blog.php"><i class="fa-light fa-clock"></i>25 December, 2023</a>
                                
                             </div>
@@ -78,7 +78,7 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>Hinal</a>
+                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>ACE</a>
                                 <a href="blog.php"><i class="fa-light fa-clock"></i>22 December, 2023</a>
                               
                             </div>
@@ -95,7 +95,7 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>Hinal</a>
+                                <a class="author" href="blog.php"><i class="fa-light fa-user"></i>ACE</a>
                                 <a href="blog.php"><i class="fa-light fa-clock"></i>25 September, 2023</a>
                                 
                             </div>
@@ -129,7 +129,7 @@ Blog Area
                                     <div class="media-body">
                                         <h4 class="post-title"><a class="text-inherit" href="react-training-blog.php">Building Interactive User Interfaces with React: Training for Developers</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.php"><i class="fal fa-calendar"></i>28/12/2023</a>
+                                            <a><i class="fal fa-calendar"></i>28/12/2023</a>
                                         </div>
                                     </div>
                                 </div>

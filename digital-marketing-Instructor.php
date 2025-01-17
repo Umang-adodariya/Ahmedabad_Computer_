@@ -23,13 +23,13 @@
                 <div class="row gx-40">
                     <div class="col-lg-6 position-relative">
                         <div class="team-details-thumb">
-                            <img src="assets/img/instructor/instructorDetail/hinal.jpg" alt="team image">
+                            <img src="assets/img/instructor/instructorDetail/tarak-shah.png" alt="team image">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-box">
                             <div class="about-info">
-                                <h2 class="title">Hinal Joshi</h2>
+                                <h2 class="title">Tarak Shah</h2>
                                 <p class="desig">Digital Marketing & SEO Expert</p>
                             </div>
                             <div class="th-social style2">
@@ -39,7 +39,7 @@
                                 <a target="_blank" href="https://www.linkedin.com/company/ahmedabadcomputereducation/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
-                        <p>Hinal Joshi is a seasoned digital marketing strategist and SEO expert with over 4 years of experience in propelling brands to new heights. Her passion for digital innovation and her ability to translate complex concepts into actionable insights have made her a sought-after mentor and industry leader.</p>
+                        <p>Tarak Shah is a seasoned digital marketing strategist and SEO expert with over 4 years of hands-on experience in digital marketing and social media, Tarak Shah has honed his skills working with diverse clients across 20+ industries, both nationally and internationally. He has successfully managed high-impact Meta Ads campaigns, generating significant results.</p>
                         <div class="about-quality">
                             <div class="quality-box">
                                 <span class="quality-text">Course: 1</span>
@@ -77,17 +77,16 @@
                 <div class="row">
                     <div class="col-lg-8">
                         
-                        <p>Hinal has successfully implemented digital marketing strategies for a diverse range of clients across industries such as fashion, e-commerce, manufacturing, healthcare, and education.
+                        <p>Tarak's 4 years of experience in digital marketing education ensures a practical and insightful learning experience. He is passionate about sharing his knowledge and empowering students to succeed in the dynamic digital landscape.
                         </p>
                         <h3 class="title h4 fw-semibold mb-40">Areas of Expertise:</h3>
                         <div class="checklist mb-40">
                             <ul class="course-acc-ul">
-                                <li class="course-acc-li"><div><b>SEO (Organic Search):</b> Mastering the art of search engine optimization to drive organic traffic and boost brand visibility.</div></li>
-                                <li class="course-acc-li"><div><b>Social Media Marketing:</b> Leveraging the power of social media platforms to engage audiences, build brand awareness, and drive conversions.</div>
+                                <li class="course-acc-li"><div><b>Social Media Marketing:</b> Leverage the power of social media platforms to build brand awareness, engage audiences, and drive conversions.
+                                </div></li>
+                                <li class="course-acc-li"><div><b>Meta Ads:</b> Master the art of creating effective Meta Ads to reach your target audience and achieve marketing goals.</div>
                                 </li>
-                                <li class="course-acc-li"><div><b>Paid Advertising:</b> Optimizing paid advertising campaigns to maximize ROI and generate targeted leads.</div>
-                                </li>
-                                <li class="course-acc-li"><div><b>Digital Marketing Strategy:</b> Developing comprehensive digital marketing strategies aligned with business objectives.</div>
+                                <li class="course-acc-li"><div><b>Digital Marketing Strategy:</b> Develop comprehensive digital marketing strategies that align with business objectives and deliver measurable results.</div>
                                 </li>
                             </ul>
                         </div>
@@ -116,12 +115,12 @@
                       
                         <div class="checklist style5 mt-30">
                             <ul>
-                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>MSC (CA&IT)</b>, Computer Science from KS Institute of Technology.</div></li>
-                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div>Recognized as a Top Organic Search Voice on LinkedIn.</div></li>
-                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div>Recognized as a Top Social Media Optimization (SMO) Voice on LinkedIn.</div></li>
-                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>In-Depth Knowledge:</b> She specializes in SEO (Organic), Social Media Marketing, Paid Ads, and Digital Marketing Strategy.</div></li>
-                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Practical Experience:</b> With 3+ years of teaching experience, Hinal knows how to break down complex concepts into easy-to-understand lessons.</div></li>
-                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Engaging Teaching Style:</b> Hinal's passion for digital marketing is contagious, and she has a knack for making learning fun and interactive.</div></li>
+                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div>Awarded as a <b>Brand Builder</b>by Virtual Height IT Services Pvt. Ltd.</div></li>
+                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Fundamentals of Digital Marketing </b>from Google Digital Unlocked</div></li>
+                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Performance Marketing </b>from GrowthSchool</div></li>
+                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Google Creative Certification</b></div></li>
+                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Bachelor of Commerce </b>from J. G. College of Commerce</div></li>
+                                <li><i class="fa-solid fa-file-certificate text-theme me-2"></i><div><b>Postgraduate Diploma in Digital Marketing & Strategy </b> from All India Management Association (AIMA)</div></li>
                             </ul>
                         </div>
                     </div>

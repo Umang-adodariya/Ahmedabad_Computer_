@@ -61,6 +61,101 @@
                     <div class="team-card style3">  
                         <div class="team-img-wrap">
                             <div class="team-img">
+                                <img src="assets/img/instructor/instructorDetail/nikita-karanpuria.jpg" alt="MERN Stack Expert">
+                            </div>
+                        </div>
+                        <div class="team-hover-wrap">
+                            <div class="team-content">
+                                <h3 class="team-title"><a href="mern-stack-instructor.php">Nikita Karanpuria</a></h3>
+                                <span class="team-desig">MERN Stack Expert</span>
+                            </div>
+                            <div class="team-info">
+                                <span><i class="fal fa-file-check"></i>4 Course</span>
+                                <span><i class="fa-light fa-users"></i>Students 85+</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xl-3">
+                    <div class="team-card style3">  
+                        <div class="team-img-wrap">
+                            <div class="team-img">
+                                <img src="assets/img/instructor/instructorDetail/nilesh-goud.jpg" alt="Python Expert">
+                            </div>
+                        </div>
+                        <div class="team-hover-wrap">
+                            <div class="team-content">
+                                <h3 class="team-title"><a href="python-instructor.php">Nilesh Goud</a></h3>
+                                <span class="team-desig">Python Expert</span>
+                            </div>
+                            <div class="team-info">
+                                <span><i class="fal fa-file-check"></i>1 Course</span>
+                                <span><i class="fa-light fa-users"></i>Students 250+</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xl-3">
+                    <div class="team-card style3">  
+                        <div class="team-img-wrap">
+                            <div class="team-img">
+                                <img src="assets/img/AnkitPatel.jpg" alt="Blockchain Expert">
+                            </div>
+                        </div>
+                        <div class="team-hover-wrap">
+                            <div class="team-content">
+                                <h3 class="team-title"><a href="blockchain-instructor.php">Ankit Patel</a></h3>
+                                <span class="team-desig">Blockchain Expert</span>
+                            </div>
+                            <div class="team-info">
+                                <span><i class="fal fa-file-check"></i>2 Course</span>
+                                <span><i class="fa-light fa-users"></i>Students 130+</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xl-3">
+                    <div class="team-card style3">  
+                        <div class="team-img-wrap">
+                            <div class="team-img">
+                                <img src="assets/img/instructor/instructorDetail/bhargav-limbasiya.jpg" alt="PHP/Laravel Expert">
+                            </div>
+                        </div>
+                        <div class="team-hover-wrap">
+                            <div class="team-content">
+                                <h3 class="team-title"><a href="laravel-instructor.php">Bhargav Limbasiya</a></h3>
+                                <span class="team-desig">PHP/Laravel Expert</span>
+                            </div>
+                            <div class="team-info">
+                                <span><i class="fal fa-file-check"></i>1 Course</span>
+                                <span><i class="fa-light fa-users"></i>Students 100+</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xl-3">
+                    <div class="team-card style3">  
+                        <div class="team-img-wrap">
+                            <div class="team-img">
+                                <img src="assets/img/instructor/instructorDetail/saloni-suthar.jpg" alt="Web Design Expert">
+                            </div>
+                        </div>
+                        <div class="team-hover-wrap">
+                            <div class="team-content">
+                                <h3 class="team-title"><a href="web-design-instructor.php">Saloni Suthar</a></h3>
+                                <span class="team-desig">Web Design Expert</span>
+                            </div>
+                            <div class="team-info">
+                                <span><i class="fal fa-file-check"></i>1 Course</span>
+                                <span><i class="fa-light fa-users"></i>Students 100+</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xl-3">
+                    <div class="team-card style3">  
+                        <div class="team-img-wrap">
+                            <div class="team-img">
                                 <img src="assets/img/instructor/instructorDetail/rajdeep.jpg" alt="Rajdeep Game Development">
                             </div>
                         </div>
@@ -156,12 +251,12 @@
                     <div class="team-card style3">
                         <div class="team-img-wrap">
                             <div class="team-img">
-                                <img src="assets/img/instructor/instructorDetail/hinal.jpg" alt="Hinal Digital Marketing">
+                                <img src="assets/img/instructor/instructorDetail/tarak-shah.png" alt="Digital Marketing Expert">
                             </div>
                         </div>
                         <div class="team-hover-wrap">
                             <div class="team-content">
-                                <h3 class="team-title"><a href="digital-marketing-instructor.php">Hinal Joshi</a></h3>
+                                <h3 class="team-title"><a href="digital-marketing-instructor.php">Tarak Shah</a></h3>
                                 <span class="team-desig">Digital Marketing Expert</span>
                             </div>
                             <div class="team-info">

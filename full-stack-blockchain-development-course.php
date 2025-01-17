@@ -72,7 +72,7 @@ Event Area
                                                 <li class="course-acc-li">Decentralization: Blockchain is a decentralized ledger technology, meaning its control or authority is distributed amongst multiple users and not with a single entity. Hence, everyone must agree to any change in the state of data or the addition of a new block of data to the existing ledger.</li>
                                                 <li class="course-acc-li">Immutability: Once data is mined and added to the blockchain ledger, it becomes immutable. Our experts will further explain the use of cryptographic algorithms to make data blocks immutable and prevent any further modification of the same.</li>
                                                 <li class="course-acc-li">Enhanced security: In our blockchain course for beginners, we include lectures and an in-depth understanding of the security and encryption protocols associated with this decentralized ledger. Additionally, we also shed light on different consensus protocols adopted for working on the ledger, like Proof of Stakes and Proof of Work. </li>
-                                                <li class="course-acc-li">4.Smart contract development and deployment: With us, students can learn the development of automated execution programs known as smart contracts that are deployed on the blockchain. These are sets of rules and conditions to automatically trigger an operation on the blockchain, like the completion of a monetary transfer or updating the records of a product in the supply chain ledger. </li>
+                                                <li class="course-acc-li">Smart contract development and deployment: With us, students can learn the development of automated execution programs known as smart contracts that are deployed on the blockchain. These are sets of rules and conditions to automatically trigger an operation on the blockchain, like the completion of a monetary transfer or updating the records of a product in the supply chain ledger. </li>
                                                 <li class="course-acc-li">Data mining: Our experts will also help students understand the concepts associated with data mining since it is required to develop a blockchain and add the data blocks to the existing ledger. For this, we will provide live training sessions on hashing, cryptographic encryption, and other computational logic relevant to data mining. </li>
                                             </ul>
                                         </div>
@@ -89,7 +89,7 @@ Event Area
                                         <p>With our blockchain certification course, students can apply for multifarious job roles once they graduate. Also, expert professionals who wish to establish their careers in this field can benefit a lot from our certification course. Since blockchain is used in different ways across multiple industries, there are numerous options for job roles in the market.</p>
                                         <div class="checklist mb-1">
                                             <ul class="course-acc-ul">
-                                                <li class="course-acc-li">1.Blockchain developer: As the name implies, blockchain developers are concerned with developing a secondary blockchain on a primary one, blockchain-based applications like wallets and marketplaces, smart contracts, and user-authentication systems. Their average salary ranges somewhere between INR 7 to INR 9 lakhs annually.</li>
+                                                <li class="course-acc-li">Blockchain developer: As the name implies, blockchain developers are concerned with developing a secondary blockchain on a primary one, blockchain-based applications like wallets and marketplaces, smart contracts, and user-authentication systems. Their average salary ranges somewhere between INR 7 to INR 9 lakhs annually.</li>
                                                 <li class="course-acc-li">Blockchain solution architect: A blockchain solution architect will be responsible for providing tailored solutions to their clients by understanding the business needs, analyzing the existing technical infrastructure, and deducing the feasibility of the solution. Such a professional can get a job with an average salary of INR 11 lakhs annually.</li>
                                                 <li class="course-acc-li">Blockchain project manager: Managing the entire blockchain development project and streamlining the deliveries through agile methods will be the major responsibilities of a blockchain project manager. The person needs to be acquainted with both the technicalities of blockchain development along with other project management tools. The average salary of the professional will be somewhere between INR 13 lakhs to INR 18 lakhs depending on the expertise.</li>
                                                 <li class="course-acc-li">Blockchain UX designer: Another most common and high-in-demand job role that you can look for is blockchain UX designer. You will be concerned with developing a feature-rich and interactive user interface for blockchain-based applications using front-end programming languages and service-based APIs. The average salary of a blockchain UX designer is somewhat between INR 14 lakhs to INR 16 lakhs.</li>
@@ -170,12 +170,10 @@ Event Area
                                                             <div class="checklist mb-1">
                                                                 <ul class="course-acc-ul">
                                                                     <li class="course-acc-li">CREATE TOKEN GENERATION SMART CONTRACT(ERC20 AND BEP20) IN VS CODE</li>
-                                                                    <li class="course-acc-li">INTRODUCTION OF TRUFFLE AND HARDHAT FRAMEWORK</li>
-                                                                    <li class="course-acc-li">DEPLOY SMART CONTRACT WITH TRUFFLE</li>
+                                                                    <li class="course-acc-li">INTRODUCTION OF HARDHAT FRAMEWORK</li>
                                                                     <li class="course-acc-li">DEPLOY SMART CONTRACT WITH HARDHAT</li>
                                                                     <li class="course-acc-li">BASIC INTRODUCTION OF REACT.JS</li>
                                                                     <li class="course-acc-li">BASIC INTRODUCTION OF NODE.JS</li>
-                                                                    <li class="course-acc-li">INTRODUCTION OF GANACHE</li>
                                                                     <li class="course-acc-li">INTRODUCTION OF ICO</li>
                                                                     <li class="course-acc-li">INTRODUCTION OF SCAN (ETHEREUM,BINANCE,POLYGON,CARDANO,SOLANA)</li>
                                                                     <li class="course-acc-li">OVERVIEW OF NFTS</li>
@@ -192,6 +190,9 @@ Event Area
                                                             </div>
                                                         </div>
                                                     </div>
+                                                </div>
+                                                <div class="accordion-item course-acc-item">
+                                                    <span style="padding-left:20px">OR</span>
                                                 </div>
                                                 <div class="accordion-item course-acc-item">
                                                     <h2 class="accordion-header" id="headingThree">
@@ -241,25 +242,6 @@ Event Area
                                 <div class="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
                                     <div class="course-instructor">
                                         <div class="course-author-box">
-                                            <div class="auhtor-img">
-                                                <img src="assets/img/instructor/nikita-karanpuria.jpg" alt="Author Image">
-                                            </div>
-                                            <div class="media-body">
-                                            <h3 class="author-name"><a class="text-inherit" href="mern-stack-instructor.php">Nikita Karanpuria</a></h3>
-                                                <p class="author-text">Nikita Karanpuria is a seasoned full-stack developer and technical project manager with a passion for building innovative and scalable web applications. With a strong foundation in MERN stack technologies and blockchain.</p>
-                                                <div class="author-meta">
-                                                    <a href="course.html"><i class="fal fa-file-video"></i>1 Course</a>
-                                                    <span><i class="fal fa-users"></i>125+ Students</span>
-                                                </div>
-                                                <div class="th-social">
-                                                    <a href="https://www.facebook.com/ahmedabadcomputereducation" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                                    <a href="https://www.youtube.com/channel/UC-B4hidXXVOrr644iMJrj5g" target="_blank"><i class="fab fa-youtube"></i></a>
-                                                    <a href="https://www.linkedin.com/company/ahmedabadcomputereducation/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                                    <a href="https://www.instagram.com/ahmedabad_computer_education/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="course-author-box">
                                             <div class="auhtor-img without-author-sec">
                                                 <img src="assets/img/AnkitPatel.jpg" alt="Author Image" class="default-ic" style="max-height:330px;object-fit:cover;">
                                             </div>
@@ -267,7 +249,7 @@ Event Area
                                             <h3 class="author-name"><a class="text-inherit" href="blockchain-instructor.php">Ankit Patel</a></h3>
                                                 <p class="author-text">Ankit Patel is a skilled blockchain and full-stack developer with a passion for building innovative solutions. With over 3 years of experience, Ankit has a proven track record of delivering cutting-edge projects, from smart contracts to decentralized applications.</p>
                                                 <div class="author-meta">
-                                                    <a href="course.html"><i class="fal fa-file-video"></i>2 Courses</a>
+                                                    <a><i class="fal fa-file-video"></i>2 Courses</a>
                                                     <span><i class="fal fa-users"></i>130+ Students</span>
                                                 </div>
                                                 <div class="th-social">
